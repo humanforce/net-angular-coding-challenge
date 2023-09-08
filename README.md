@@ -20,7 +20,7 @@ You can use any IDE, libraries and storage.
 
 - Sprints
 - Team Members
-- Public Holidays (Google Calendar API)
+- Public Holidays (Google Calendar API): [Australia](https://www.googleapis.com/calendar/v3/calendars/en.australian%23holiday%40group.v.calendar.google.com/events?key=) |  [Philippines](https://www.googleapis.com/calendar/v3/calendars/en.philippines%23holiday%40group.v.calendar.google.com/events?key=) | [Pakistan](https://www.googleapis.com/calendar/v3/calendars/en.pk%23holiday%40group.v.calendar.google.com/events?key=)
 - Backlog (JIRA API)
 
 # Requirements
