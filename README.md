@@ -1,6 +1,24 @@
-# Introduction
+# Table of Contents
+1. [Scenario](#scenario)
+2. [Technology](#technology)
+3. [APIs](#apis)
+4. [Requirements](#requirements)
+5. [Interview](#interview)
+
+# Scenario
 
 As a full stack developer, your task is to create a Single Page Application that enables effective planning for a remote team.
+
+The Awesome Squad has three engineers living in different countries: Australia, Pakistan and The Philippines.
+
+- Each team member takes time off according to their country's public holidays.
+- The work is distributed across 2-week sprints.
+- Tickets' estimations are based in Story Points (`customfield_10016`).
+- The following Mock Data is provided in the `Data` folder
+  - Sprints (JIRA API)
+  - Backlog (JIRA API)
+  - Team Members
+  - Public Holidays (Google Calendar API)
 
 # Technology
 
@@ -9,19 +27,36 @@ As a full stack developer, your task is to create a Single Page Application that
 
 You can use any IDE, libraries and storage.
 
-# Scenario
+## APIs
+### Google Calendar API
 
-- The Awesome Squad has three engineers living in different countries: Australia, Pakistan and The Philippines.
-- Each team member takes time off according to their country's public holidays.
-- The work is distributed across 2-week sprints.
-- Tickets' estimations are based in Story Points.
+**Requests:**
+- `GET` https://www.googleapis.com/calendar/v3/calendars/en.australian%23holiday%40group.v.calendar.google.com/events?key=
+- `GET` https://www.googleapis.com/calendar/v3/calendars/en.philippines%23holiday%40group.v.calendar.google.com/events?key=
+- `GET` https://www.googleapis.com/calendar/v3/calendars/en.pk%23holiday%40group.v.calendar.google.com/events?key=
 
-# Mock Data
 
-- Sprints
-- Team Members
-- Public Holidays (Google Calendar API): [Australia](https://www.googleapis.com/calendar/v3/calendars/en.australian%23holiday%40group.v.calendar.google.com/events?key=) |  [Philippines](https://www.googleapis.com/calendar/v3/calendars/en.philippines%23holiday%40group.v.calendar.google.com/events?key=) | [Pakistan](https://www.googleapis.com/calendar/v3/calendars/en.pk%23holiday%40group.v.calendar.google.com/events?key=)
-- Backlog (JIRA API)
+### JIRA API
+
+#### Authentication
+
+`Authorization: Basic` Base64(user@humanforce.com:[key](https://id.atlassian.com/manage-profile/security/api-tokens))
+
+#### Sprints
+**Request:** `GET` https://hf-sandbox.atlassian.net/rest/agile/latest/board/1/sprint
+
+#### Search
+**Request:** `POST` https://hf-sandbox.atlassian.net/rest/api/2/search
+
+**Body:**
+```json
+{
+    "jql": "Sprint='SCRUM'",
+    "maxResults": 1000,
+    "startAt": 0
+}
+```
+
 
 # Requirements
 
