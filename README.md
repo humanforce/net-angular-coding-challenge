@@ -3,7 +3,10 @@
 2. [Technology](#technology)
 3. [APIs](#apis)
 4. [Requirements](#requirements)
-5. [Interview](#interview)
+5. [Timeframe](#timeframe)
+6. [Submission](#submission)
+7. [Evaluation](#evaluation)
+8. [Interview](#interview)
 
 # Scenario
 
@@ -66,9 +69,22 @@ For each Sprint:
 3. Display team's capacity.
 4. Display a list of tickets.
 
-# Interview
+# Timeframe
+- You have one week to complete the challenge and we recommend investing a maximum of 4 hours.
 
+# Submission
+- Once you have completed the challenge, please submit your solution.
+- Ensure that you include any necessary documentation or instructions required to run your code.
+
+# Evaluation
+- After the submission, our hiring team will review your solution thoroughly.
+- We will assess your code quality, problem-solving approach, and adherence to best coding practices.
+
+# Interview
 During the technical interview you will be asked to:
 
 - Showcase your solution (running and working on your own laptop)
 - Bring a list of questions/assumptions/concerns/opinions for discussion (architecture, design and code related topics).
+
+
+
