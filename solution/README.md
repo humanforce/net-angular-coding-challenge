@@ -15,3 +15,10 @@ Alternatively, launch the frontend codes in a separated command window (after la
 1. Go to the ClientApp directory "cd ./ClientApp"
 2. Run "ng serve"
 3. Open url "http://localhost:4200" in a browser.
+
+## Notes
+
+The README.md file in the root folder mentions Google apis and Jira apis, but does not provide an api key or a valid jira credential.
+In this solution, I have added but commented out codes for google and jira api calls (CalendarService.cs and JiraService.cs). I am not going to include a key or credential in this repo.
+
+The requirements did not mention filtering and paging. If filtering and paging were required, I would deserialise and filter the json objects returned from the google/jira apis on the server side instead of on the client side in the current codes, which required extensive mapping.
