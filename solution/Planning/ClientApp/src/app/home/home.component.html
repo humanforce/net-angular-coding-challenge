@@ -1,0 +1,8 @@
+<div *ngFor="let sprint of sprints">
+  <div style="border: solid 1px black; margin: 10px;">
+    <div><b>{{sprint.name}}</b></div>
+    <div>Velocity: {{sprint.velocity}}</div>
+    <div>Capacity: {{sprint.capacity}}</div>
+    <a [routerLink]="['/details', sprint.id]">Details</a>
+  </div>
+</div>

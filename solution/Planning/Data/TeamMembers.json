@@ -1,0 +1,29 @@
+[
+  {
+    "Id": "e59023eb-8eff-41fa-9bbb-000ff99153ed",
+    "Name": "Muhammad",
+    "Location": {
+      "Id": "c16aa679-910a-4955-a225-1a13f9b8f607",
+      "Country": "Pakistan",
+      "Region": "Karachi"
+    }
+  },
+  {
+    "Id": "70bcfb62-c5ee-4a43-bfd1-86c0a740ce1a",
+    "Name": "Daniel",
+    "Location": {
+      "Id": "f382364d-7d49-41cf-b827-d11873635fe3",
+      "Country": "Australia",
+      "Region": "New South Wales"
+    }
+  },
+  {
+    "Id": "cf372ad2-67f0-4d3d-9e5f-4389b525b2e8",
+    "Name": "Maria",
+    "Location": {
+      "Id": "20c695f3-b8ae-46c2-96a4-031b5f03855d",
+      "Country": "Philippines",
+      "Region": "Manila"
+    }
+  }
+]

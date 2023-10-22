@@ -1,0 +1,107 @@
+{
+    "maxResults": 50,
+    "startAt": 0,
+    "isLast": true,
+    "values": [
+        {
+            "id": 1,
+            "self": "https://hf-sandbox.atlassian.net/rest/agile/1.0/sprint/1",
+            "state": "closed",
+            "name": "SCRUM Sprint 1",
+            "startDate": "2022-12-31T14:00:00.000Z",
+            "endDate": "2023-01-14T14:00:00.000Z",
+            "originBoardId": 1,
+            "goal": ""
+        },
+        {
+            "id": 2,
+            "self": "https://hf-sandbox.atlassian.net/rest/agile/1.0/sprint/2",
+            "state": "closed",
+            "name": "SCRUM Sprint 2",
+            "startDate": "2023-01-14T14:00:00.000Z",
+            "endDate": "2023-01-28T14:00:00.000Z",
+            "originBoardId": 1,
+            "goal": ""
+        },
+        {
+            "id": 3,
+            "self": "https://hf-sandbox.atlassian.net/rest/agile/1.0/sprint/3",
+            "state": "closed",
+            "name": "SCRUM Sprint 3",
+            "startDate": "2023-01-28T14:00:00.000Z",
+            "endDate": "2023-02-11T14:00:00.000Z",
+            "originBoardId": 1,
+            "goal": ""
+        },
+        {
+            "id": 4,
+            "self": "https://hf-sandbox.atlassian.net/rest/agile/1.0/sprint/4",
+            "state": "closed",
+            "name": "SCRUM Sprint 4",
+            "startDate": "2023-02-11T14:00:00.000Z",
+            "endDate": "2023-02-25T14:00:00.000Z",
+            "originBoardId": 1,
+            "goal": ""
+        },
+        {
+            "id": 5,
+            "self": "https://hf-sandbox.atlassian.net/rest/agile/1.0/sprint/5",
+            "state": "closed",
+            "name": "SCRUM Sprint 5",
+            "startDate": "2023-02-25T14:00:00.000Z",
+            "endDate": "2023-03-11T14:00:00.000Z",
+            "originBoardId": 1,
+            "goal": ""
+        },
+        {
+            "id": 6,
+            "self": "https://hf-sandbox.atlassian.net/rest/agile/1.0/sprint/6",
+            "state": "closed",
+            "name": "SCRUM Sprint 6",
+            "startDate": "2023-03-11T14:00:00.000Z",
+            "endDate": "2023-03-25T14:00:00.000Z",
+            "originBoardId": 1,
+            "goal": ""
+        },
+        {
+            "id": 7,
+            "self": "https://hf-sandbox.atlassian.net/rest/agile/1.0/sprint/7",
+            "state": "closed",
+            "name": "SCRUM Sprint 7",
+            "startDate": "2023-03-25T14:00:00.000Z",
+            "endDate": "2023-04-08T14:00:00.000Z",
+            "originBoardId": 1,
+            "goal": ""
+        },
+        {
+            "id": 8,
+            "self": "https://hf-sandbox.atlassian.net/rest/agile/1.0/sprint/8",
+            "state": "closed",
+            "name": "SCRUM Sprint 8",
+            "startDate": "2023-04-08T14:00:00.000Z",
+            "endDate": "2023-04-22T14:00:00.000Z",
+            "originBoardId": 1,
+            "goal": ""
+        },
+        {
+            "id": 9,
+            "self": "https://hf-sandbox.atlassian.net/rest/agile/1.0/sprint/9",
+            "state": "closed",
+            "name": "SCRUM Sprint 9",
+            "startDate": "2023-04-22T14:00:00.000Z",
+            "endDate": "2023-05-06T14:00:00.000Z",
+            "originBoardId": 1,
+            "goal": ""
+        },
+        {
+            "id": 10,
+            "self": "https://hf-sandbox.atlassian.net/rest/agile/1.0/sprint/10",
+            "state": "closed",
+            "name": "SCRUM Sprint 10",
+            "startDate": "2023-05-06T14:00:00.000Z",
+            "endDate": "2023-05-20T14:00:00.000Z",
+            "originBoardId": 1,
+            "goal": ""
+        }
+    ]
+}
