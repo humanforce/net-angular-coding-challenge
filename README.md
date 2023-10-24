@@ -31,6 +31,9 @@ The Awesome Squad has three engineers living in different countries: Australia, 
 You can use any IDE, libraries and storage.
 
 ## APIs
+> [!NOTE]  
+> API information provided is for reference purposes only. The objective is to design a flexible solution that allows seamless switching between mock data and real services.
+
 ### Google Calendar API
 
 **Requests:**
