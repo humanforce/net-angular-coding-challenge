@@ -88,6 +88,7 @@ During the technical interview you will be asked to:
 
 - Showcase your solution (running and working on your own laptop)
 - Bring a list of questions/assumptions/concerns/opinions for discussion (architecture, design and code related topics).
+- Make small changes in your application
 
 
 
