@@ -1,0 +1,37 @@
+<h1 id="tableLabel">{{sprint.name}}</h1>
+<p>Velocity: {{sprint.velocity}}</p>
+<p>capacity: {{sprint.capacity}}</p>
+
+<h2 id="tableLabel">Sprint Details</h2>
+
+<h3 *ngIf="!sprint?.issues?.length"><em>No issues</em></h3>
+<h3 *ngIf="sprint?.issues?.length">Issues</h3>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="sprint?.issues?.length">
+  <thead>
+    <tr>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let issue of sprint?.issues">
+      <td>{{ issue.fields.summary }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 *ngIf="!sprint?.holidays?.length"><em>No holidays</em></h3>
+<h3 *ngIf="sprint?.holidays?.length">Holidays</h3>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="sprint?.holidays?.length">
+  <thead>
+    <tr>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let holiday of sprint?.holidays">
+      <td>{{ holiday.name }}</td>
+    </tr>
+  </tbody>
+</table>
