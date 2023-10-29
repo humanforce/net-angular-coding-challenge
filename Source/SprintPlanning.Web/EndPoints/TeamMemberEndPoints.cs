@@ -32,11 +32,11 @@ public static class TeamMemberEndPoints
         return TypedResults.Ok(result);
     }
 
-    public static async Task<Ok<List<TeamMemberCapacityResponse>>> GetTeamVelocity(ISender sender,
-        GetTeamCapacityRequest request,
+    public static async Task<Ok<TeamVelocityResponse>> GetTeamVelocity(ISender sender,
+        GetTeamVelocityRequest request,
         CancellationToken cancellationToken)
     {
-        var response = await sender.Send(new GetTeamCapacityQuery(
+        var response = await sender.Send(new GetTeamVelocityQuery(
             request.StartDate),
             cancellationToken);
 
