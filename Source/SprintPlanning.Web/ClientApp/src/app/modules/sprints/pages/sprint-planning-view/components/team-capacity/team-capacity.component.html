@@ -1,0 +1,46 @@
+<div *ngIf="isLoading; else teamMemberList">
+  <app-spinner></app-spinner>
+</div>
+
+<ng-template #teamMemberList>
+  <h3 class="text-lg leading-6 font-medium text-gray-900">Team Capacity</h3>
+  <br />
+  <div
+    class="bg-white shadow overflow-hidden sm:rounded-md"
+    *ngIf="!isLoading && teamMembers.length > 0; else noRecord"
+  >
+    <table class="min-w-full divide-y divide-gray-200">
+      <thead class="bg-gray-200">
+        <tr>
+          <th class="px-4 py-2 text-left">No.</th>
+          <th class="px-4 py-2 text-left">Name</th>
+          <th class="px-4 py-2 text-left">Country</th>
+          <th class="px-4 py-2 text-left">Capacity</th>
+        </tr>
+      </thead>
+      <tbody>
+        <ng-container *ngFor="let teamMember of teamMembers; let i = index">
+          <tr [ngClass]="i % 2 === 0 ? 'bg-white' : 'bg-gray-100'">
+            <td class="px-4 py-2">{{ i + 1 }}</td>
+            <td class="px-4 py-2">{{ teamMember.name }}</td>
+            <td class="px-4 py-2">{{ teamMember.country }}</td>
+            <td class="px-4 py-2">{{ teamMember.capacity }}</td>
+          </tr>
+        </ng-container>
+      </tbody>
+    </table>
+  </div>
+  <ng-template #noRecord>
+    <div class="bg-white shadow overflow-hidden sm:rounded-md">
+      <div class="block hover:bg-gray-50">
+        <div class="flex items-center px-4 py-4 sm:px-6">
+          <div class="min-w-0 flex-1 flex items-center">
+            <h6 class="text-lg leading-6 font-medium text-gray-900">
+              No Team Member found
+            </h6>
+          </div>
+        </div>
+      </div>
+    </div>
+  </ng-template>
+</ng-template>

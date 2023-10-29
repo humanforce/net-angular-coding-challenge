@@ -1,0 +1,14 @@
+<div *ngIf="isLoading; else teamVelocityDeatils">
+  <app-spinner></app-spinner>
+</div>
+
+<ng-template #teamVelocityDeatils>
+    <div class="flex">
+        <h3 class="text-lg leading-6 font-medium text-gray-900">Team Velocitty</h3>
+        <div class="pl-3 pt-0.5">
+            <strong>{{ teamVelocity.velocity }}</strong>
+            <small> (based on the past 3 sprints)</small>
+        </div>
+    </div>
+  
+</ng-template>

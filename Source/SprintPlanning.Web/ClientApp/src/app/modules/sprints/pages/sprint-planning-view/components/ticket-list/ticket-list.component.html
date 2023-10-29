@@ -1,0 +1,46 @@
+<div *ngIf="isLoading; else ticketList">
+  <app-spinner></app-spinner>
+</div>
+
+<ng-template #ticketList>
+  <h3 class="text-lg leading-6 font-medium text-gray-900">Tickets</h3>
+  <br />
+  <div
+    class="bg-white shadow overflow-hidden sm:rounded-md"
+    *ngIf="!isLoading && tickets.length > 0; else noRecord"
+  >
+    <table class="min-w-full divide-y divide-gray-200">
+      <thead class="bg-gray-200">
+        <tr>
+          <th class="px-4 py-2 text-left">No.</th>
+          <th class="px-4 py-2 text-left">Sprint Name</th>
+          <th class="px-4 py-2 text-left">Summary</th>
+          <th class="px-4 py-2 text-left">Velocity</th>
+        </tr>
+      </thead>
+      <tbody>
+        <ng-container *ngFor="let ticket of tickets; let i = index">
+          <tr [ngClass]="i % 2 === 0 ? 'bg-white' : 'bg-gray-100'">
+            <td class="px-4 py-2">{{ i + 1 }}</td>
+            <td class="px-4 py-2">{{ ticket.sprintName }}</td>
+            <td class="px-4 py-2">{{ ticket.summary }}</td>
+            <td class="px-4 py-2">{{ ticket.velocity }}</td>
+          </tr>
+        </ng-container>
+      </tbody>
+    </table>
+  </div>
+  <ng-template #noRecord>
+    <div class="bg-white shadow overflow-hidden sm:rounded-md">
+      <div class="block hover:bg-gray-50">
+        <div class="flex items-center px-4 py-4 sm:px-6">
+          <div class="min-w-0 flex-1 flex items-center">
+            <h6 class="text-lg leading-6 font-medium text-gray-900">
+              No Ticket found
+            </h6>
+          </div>
+        </div>
+      </div>
+    </div>
+  </ng-template>
+</ng-template>
