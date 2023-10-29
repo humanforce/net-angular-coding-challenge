@@ -1,14 +1,15 @@
 # Sprint Planning Application
 
-**Overview:** This is a Sprint Planning Application designed to help you efficiently plan and manage your project sprints.
+## Overview
+   This application for sprint planning has been designed to assist you in effectively organising and running your project sprints.
 
-## Tools/Framework
+## Frameworks/Technologies
 
 - .NET 7
 - Angular 16.2
 - Tailwind CSS
 
-## Installation
+## Getting Started
 
 1. **Clone the Repository**
    - Clone this repository to your local machine.
