@@ -1,0 +1,32 @@
+<div class="modal-header">
+    <h4 class="modal-title" id="modal-basic-title">{{publicHolidays?.description}}</h4>
+    <button type="button" class="btn-close" aria-label="Close" (click)="closeModal()"></button>
+</div>
+<div class="modal-body">
+    <div class="container">
+        <div class="row">
+            <div class="col" >
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Name</th>
+                            <th scope="col">Description</th>
+                            <th scope="col">Start Date</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr *ngFor="let publicHoliday of publicHolidays?.items; index as i">
+                            <th scope="row">{{ i + 1 }}</th>
+                            <td>
+                                <a href="{{publicHoliday.htmlLink}}">{{ publicHoliday.summary }}</a>
+                            </td>
+                            <td>{{ publicHoliday.description }}</td>
+                            <td style="white-space: nowrap">{{  publicHoliday.start.date | date }}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+      </div>
+</div>

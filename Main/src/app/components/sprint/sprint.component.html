@@ -1,0 +1,31 @@
+<div class="container">
+    <div class="row">
+        <div class="col" >
+            <h4>Sprint(s)</h4>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Name - No. of Ticket(s)</th>
+                        <th scope="col">Status</th>
+                        <th scope="col">Total Story Point(s)</th>
+                        <th scope="col">Start Date</th>
+                        <th scope="col">End Date</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let sprint of sprints; index as i">
+                        <th scope="row">{{ i + 1 }}</th>
+                        <td>
+                            <a href="#" ngbTooltip="Click to view sprint detail(s)" (click)="openModal(sprint)">{{ sprint.name }} - {{ sprint.backlogs.length }} ticket(s)</a>
+                        </td>
+                        <td><span class="badge bg-success">{{ sprint.state }}</span></td>
+                        <td>{{ sprint.totalStoryPoints }} story point(s)</td>
+                        <td>{{ sprint.startDate | date}}</td>
+                        <td>{{ sprint.endDate | date}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+  </div>

@@ -1,0 +1,36 @@
+<div class="modal-header">
+    <h4 class="modal-title" id="modal-basic-title">Backlog(s)</h4>
+    <button type="button" class="btn-close" aria-label="Close" (click)="closeModal()"></button>
+</div>
+<div class="modal-body">
+    <div class="row">
+        <div *ngFor="let backlog of backlogs; index as i" class="col-md-4">
+            <div class="card border-dark mb-3" style="max-width: 18rem;">
+                <div class="card-header">
+                    <a href="{{backlog.self}}">{{backlog.key}}</a> - {{backlog.fields.summary}}
+                </div>
+                <div class="card-body text-dark">
+                    <p>
+                        <b>Status </b>
+                        <span class="badge ml-auto"
+                        [ngClass]="{'bg-success': backlog.fields.status.statusCategory.id === 3, 'bg-secondary': backlog.fields.status.statusCategory.id === 2}">{{
+                        backlog.fields.status.name }}</span>
+                    </p>
+                    <p><b>Type: </b>{{backlog.fields.issuetype.name}}</p>
+                    <p><b>Priority: </b><i [ngStyle]="{'color': backlog.fields.priority.id === '3' ? 'darkorange' : 'inherit'}">{{backlog.fields.priority.name}}</i></p>
+                    <p style="border-bottom: 1px solid #000;"><b>Resolution: </b>{{backlog.fields.resolution?.name}}</p>
+                    <p><b>Team: </b>{{backlog.fields.issuetype.name}}</p>
+                    <p><b>Story Points: </b>{{backlog.fields.customfield_10016 | number}}</p>
+                    <p><b>Sprint: </b>{{backlog.fields.customfield_10020[0].name}}</p>
+                    <br/>
+                    <p><b>Reporter: </b>{{backlog.fields.reporter.displayName}}</p>
+                    <p><b>Asignee: </b>{{backlog.fields.assignee}}</p>
+                    <p><b>Created: </b>{{backlog.fields.created | date}}</p>
+                    <p style="border-bottom: 1px solid #000;"><b>Updated: </b>{{backlog.fields.updated | date}}</p>
+                    <br>
+                    <p class="card-text"><b>Description: </b>{{backlog.fields.issuetype.description}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

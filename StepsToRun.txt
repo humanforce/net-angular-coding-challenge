@@ -1,0 +1,15 @@
+Steps to Run:
+
+Front-end:
+
+1. Navigate to net-angular-coding-challenge\Main
+2. Run 'npm install'
+3. Execute 'npm run start-dev' (data will come from the web API running on localhost) or 'npm run start-mock' (data will be directly from the JSON files)
+4. The app should automatically open at localhost:4200
+
+Back-end:
+
+1. Navigate to net-angular-coding-challenge\WebApi
+2. Open TeamPlanning.sln
+3. Run TeamPlanning.API on the development environment (by default, data will be from the mock JSON files as specified in UseMockService at appsettings.Development.json)
+4. The API should open at localhost:7238

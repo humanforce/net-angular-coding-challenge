@@ -1,0 +1,4813 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33cb1if7suco20o\"",
+ "summary": "Holidays in Australia",
+ "description": "Holidays and Observances in Australia",
+ "updated": "2023-09-06T19:42:54.000Z",
+ "timeZone": "UTC",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CICXzpjfloEDEAAYASD0p8WLAg==",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947527234000\"",
+   "id": "20220314_5fp2c4p366ipkc1fa7to98fcqc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTRfNWZwMmM0cDM2Nmlwa2MxZmE3dG85OGZjcWMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:23.000Z",
+   "updated": "2021-08-26T10:29:23.617Z",
+   "summary": "Canberra Day (Australian Capital Territory)",
+   "description": "Public holiday in Australian Capital Territory",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-14"
+   },
+   "end": {
+    "date": "2022-03-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220314_5fp2c4p366ipkc1fa7to98fcqc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947527234000\"",
+   "id": "20220321_sj6ri54986psa8jf59qu7m653c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjFfc2o2cmk1NDk4NnBzYThqZjU5cXU3bTY1M2MgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:23.000Z",
+   "updated": "2021-08-26T10:29:23.617Z",
+   "summary": "Harmony Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-21"
+   },
+   "end": {
+    "date": "2022-03-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220321_sj6ri54986psa8jf59qu7m653c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947527234000\"",
+   "id": "20220416_ju5enareifv4r73fqvleqen28s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTZfanU1ZW5hcmVpZnY0cjczZnF2bGVxZW4yOHMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:23.000Z",
+   "updated": "2021-08-26T10:29:23.617Z",
+   "summary": "Holy Saturday (regional holiday)",
+   "description": "Public holiday in Australian Capital Territory, New South Wales, Northern Territory, Queensland, South Australia, Victoria, Heard and McDonald Islands",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-16"
+   },
+   "end": {
+    "date": "2022-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220416_ju5enareifv4r73fqvleqen28s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947527234000\"",
+   "id": "20220418_skv9r6rofqq63nrpae2duqn6h4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfc2t2OXI2cm9mcXE2M25ycGFlMmR1cW42aDQgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:23.000Z",
+   "updated": "2021-08-26T10:29:23.617Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_skv9r6rofqq63nrpae2duqn6h4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947530138000\"",
+   "id": "20220126_ca2d4tbd82gvi4otc3v3nl418o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMjZfY2EyZDR0YmQ4Mmd2aTRvdGMzdjNubDQxOG8gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:25.000Z",
+   "updated": "2021-08-26T10:29:25.069Z",
+   "summary": "Australia Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-26"
+   },
+   "end": {
+    "date": "2022-01-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220126_ca2d4tbd82gvi4otc3v3nl418o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947530138000\"",
+   "id": "20220403_fh4fodjs6pf00l15abhhh87irc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDNfZmg0Zm9kanM2cGYwMGwxNWFiaGhoODdpcmMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:25.000Z",
+   "updated": "2021-08-26T10:29:25.069Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-03"
+   },
+   "end": {
+    "date": "2022-04-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220403_fh4fodjs6pf00l15abhhh87irc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947530138000\"",
+   "id": "20220530_q31ivc6ah3ealdm86d87jdhul0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MzBfcTMxaXZjNmFoM2VhbGRtODZkODdqZGh1bDAgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:25.000Z",
+   "updated": "2021-08-26T10:29:25.069Z",
+   "summary": "Reconciliation Day (Australian Capital Territory)",
+   "description": "Public holiday in Australian Capital Territory",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-30"
+   },
+   "end": {
+    "date": "2022-05-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220530_q31ivc6ah3ealdm86d87jdhul0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947530138000\"",
+   "id": "20220606_t8pr7q0uqd3udmn8fjr44fl0ks",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDZfdDhwcjdxMHVxZDN1ZG1uOGZqcjQ0Zmwwa3MgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:25.000Z",
+   "updated": "2021-08-26T10:29:25.069Z",
+   "summary": "Western Australia Day (Western Australia)",
+   "description": "Public holiday in Western Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-06"
+   },
+   "end": {
+    "date": "2022-06-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220606_t8pr7q0uqd3udmn8fjr44fl0ks@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947535428000\"",
+   "id": "20220415_8in7rmbe7u6hpg9esohlbov0v8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfOGluN3JtYmU3dTZocGc5ZXNvaGxib3YwdjggZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:27.000Z",
+   "updated": "2021-08-26T10:29:27.714Z",
+   "summary": "Good Friday (Victoria)",
+   "description": "Public holiday in Victoria",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_8in7rmbe7u6hpg9esohlbov0v8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947535428000\"",
+   "id": "20220502_ov5f9vvjk44skvltvmjh571its",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfb3Y1Zjl2dmprNDRza3ZsdHZtamg1NzFpdHMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:27.000Z",
+   "updated": "2021-08-26T10:29:27.714Z",
+   "summary": "Labour Day (Queensland)",
+   "description": "Public holiday in Queensland",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_ov5f9vvjk44skvltvmjh571its@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947542930000\"",
+   "id": "20220801_tsqu5olpkqra5rbetk7r1dhpq0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDFfdHNxdTVvbHBrcXJhNXJiZXRrN3IxZGhwcTAgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:31.000Z",
+   "updated": "2021-08-26T10:29:31.465Z",
+   "summary": "Northern Territory Picnic Day (Northern Territory)",
+   "description": "Public holiday in Northern Territory",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-01"
+   },
+   "end": {
+    "date": "2022-08-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220801_tsqu5olpkqra5rbetk7r1dhpq0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947542930000\"",
+   "id": "20220810_h17cr8cpqodmjvop1hknsoh4os",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTBfaDE3Y3I4Y3Bxb2RtanZvcDFoa25zb2g0b3MgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:31.000Z",
+   "updated": "2021-08-26T10:29:31.465Z",
+   "summary": "Royal National Agricultural Show Day Queensland (Queensland)",
+   "description": "Public holiday in Queensland",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-10"
+   },
+   "end": {
+    "date": "2022-08-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220810_h17cr8cpqodmjvop1hknsoh4os@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947547232000\"",
+   "id": "20220314_fpaj4lmrjl8hf5hdcdo2ros6h4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTRfZnBhajRsbXJqbDhoZjVoZGNkbzJyb3M2aDQgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:33.000Z",
+   "updated": "2021-08-26T10:29:33.616Z",
+   "summary": "Adelaide Cup (South Australia)",
+   "description": "Public holiday in South Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-14"
+   },
+   "end": {
+    "date": "2022-03-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220314_fpaj4lmrjl8hf5hdcdo2ros6h4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947547232000\"",
+   "id": "20220314_vg5ul1p0r3emlnb4805rfaino0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTRfdmc1dWwxcDByM2VtbG5iNDgwNXJmYWlubzAgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:33.000Z",
+   "updated": "2021-08-26T10:29:33.616Z",
+   "summary": "Eight Hours Day (Tasmania)",
+   "description": "Public holiday in Tasmania",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-14"
+   },
+   "end": {
+    "date": "2022-03-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220314_vg5ul1p0r3emlnb4805rfaino0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947547232000\"",
+   "id": "20220710_1iorgjiu1eunqap48padn69ubk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTBfMWlvcmdqaXUxZXVucWFwNDhwYWRuNjl1YmsgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:33.000Z",
+   "updated": "2021-08-26T10:29:33.616Z",
+   "summary": "Hari Raya Haji (regional holiday)",
+   "description": "Public holiday in Cocos and Keeling Islands, Christmas Island",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-10"
+   },
+   "end": {
+    "date": "2022-07-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220710_1iorgjiu1eunqap48padn69ubk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947552206000\"",
+   "id": "20220214_b6krg3m3v317l7ndohcochlqik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTRfYjZrcmczbTN2MzE3bDduZG9oY29jaGxxaWsgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:36.000Z",
+   "updated": "2021-08-26T10:29:36.103Z",
+   "summary": "Royal Hobart Regatta (Tasmania)",
+   "description": "Public holiday in Tasmania",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-14"
+   },
+   "end": {
+    "date": "2022-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220214_b6krg3m3v317l7ndohcochlqik@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947558516000\"",
+   "id": "20220425_luvhko2c4ham9eg3jsb4bdiq2o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjVfbHV2aGtvMmM0aGFtOWVnM2pzYjRiZGlxMm8gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:39.000Z",
+   "updated": "2021-08-26T10:29:39.258Z",
+   "summary": "ANZAC Day Observed (Victoria)",
+   "description": "Public holiday in Victoria",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-25"
+   },
+   "end": {
+    "date": "2022-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220425_luvhko2c4ham9eg3jsb4bdiq2o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947558516000\"",
+   "id": "20220711_k4in4d3iitrrci8djnihb14c64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTFfazRpbjRkM2lpdHJyY2k4ZGpuaWhiMTRjNjQgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:39.000Z",
+   "updated": "2021-08-26T10:29:39.258Z",
+   "summary": "Day off for Hari Raya Haji (regional holiday)",
+   "description": "Public holiday in Cocos and Keeling Islands, Christmas Island",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-11"
+   },
+   "end": {
+    "date": "2022-07-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220711_k4in4d3iitrrci8djnihb14c64@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947558516000\"",
+   "id": "20220801_69pqs0rkfglmdb29bq42r7oqbs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDFfNjlwcXMwcmtmZ2xtZGIyOWJxNDJyN29xYnMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:39.000Z",
+   "updated": "2021-08-26T10:29:39.258Z",
+   "summary": "New South Wales Bank Holiday (New South Wales)",
+   "description": "Public holiday in New South Wales",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-01"
+   },
+   "end": {
+    "date": "2022-08-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220801_69pqs0rkfglmdb29bq42r7oqbs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947561892000\"",
+   "id": "20220101_8coe153sv8lpv7huh4r1h0942s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfOGNvZTE1M3N2OGxwdjdodWg0cjFoMDk0MnMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:40.000Z",
+   "updated": "2021-08-26T10:29:40.946Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_8coe153sv8lpv7huh4r1h0942s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947561892000\"",
+   "id": "20220503_0711jm58b9sco2f406e4c3u9mc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfMDcxMWptNThiOXNjbzJmNDA2ZTRjM3U5bWMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:40.000Z",
+   "updated": "2021-08-26T10:29:40.946Z",
+   "summary": "Hari Raya Puasa (regional holiday)",
+   "description": "Public holiday in Cocos and Keeling Islands, Christmas Island",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_0711jm58b9sco2f406e4c3u9mc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947566210000\"",
+   "id": "20220307_rsfctrp74oteoc9dp35tlqkc40",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDdfcnNmY3RycDc0b3Rlb2M5ZHAzNXRscWtjNDAgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:43.000Z",
+   "updated": "2021-08-26T10:29:43.105Z",
+   "summary": "Labour Day (Western Australia)",
+   "description": "Public holiday in Western Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-07"
+   },
+   "end": {
+    "date": "2022-03-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220307_rsfctrp74oteoc9dp35tlqkc40@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947566210000\"",
+   "id": "20220314_ner5lkgcj57hecpc63pogr26hs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTRfbmVyNWxrZ2NqNTdoZWNwYzYzcG9ncjI2aHMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:43.000Z",
+   "updated": "2021-08-26T10:29:43.105Z",
+   "summary": "Labour Day (Victoria)",
+   "description": "Public holiday in Victoria",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-14"
+   },
+   "end": {
+    "date": "2022-03-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220314_ner5lkgcj57hecpc63pogr26hs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947566210000\"",
+   "id": "20220502_v4h04c48pjg77u44ooor2r62g4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfdjRoMDRjNDhwamc3N3U0NG9vb3IycjYyZzQgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:43.000Z",
+   "updated": "2021-08-26T10:29:43.105Z",
+   "summary": "May Day (Northern Territory)",
+   "description": "Public holiday in Northern Territory",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_v4h04c48pjg77u44ooor2r62g4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947571070000\"",
+   "id": "20220406_05ph16sl0tnp698vu5j4fbohd8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDZfMDVwaDE2c2wwdG5wNjk4dnU1ajRmYm9oZDggZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:45.000Z",
+   "updated": "2021-08-26T10:29:45.535Z",
+   "summary": "Self Determination Day (Cocos and Keeling Islands)",
+   "description": "Public holiday in Cocos and Keeling Islands",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-06"
+   },
+   "end": {
+    "date": "2022-04-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220406_05ph16sl0tnp698vu5j4fbohd8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947571070000\"",
+   "id": "20220419_oaun8ch4jp24fbe9dncd8oik78",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTlfb2F1bjhjaDRqcDI0ZmJlOWRuY2Q4b2lrNzggZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:45.000Z",
+   "updated": "2021-08-26T10:29:45.535Z",
+   "summary": "Easter Tuesday (Tasmania)",
+   "description": "Public holiday in Tasmania",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-19"
+   },
+   "end": {
+    "date": "2022-04-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220419_oaun8ch4jp24fbe9dncd8oik78@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947571070000\"",
+   "id": "20220425_vn01q75os2ejhg17j9kpkosbmc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjVfdm4wMXE3NW9zMmVqaGcxN2o5a3Brb3NibWMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:29:45.000Z",
+   "updated": "2021-08-26T10:29:45.535Z",
+   "summary": "ANZAC Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-25"
+   },
+   "end": {
+    "date": "2022-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220425_vn01q75os2ejhg17j9kpkosbmc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3283270120322000\"",
+   "id": "20220103_o1bl31s32c7121fgmo134lor5k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDNfbzFibDMxczMyYzcxMjFmZ21vMTM0bG9yNWsgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-01-08T09:44:20.000Z",
+   "updated": "2022-01-08T09:44:20.161Z",
+   "summary": "Day off for New Year's Day (regional holiday)",
+   "description": "Public holiday in Australian Capital Territory, Cocos and Keeling Islands, Christmas Island, New South Wales, Northern Territory, Queensland, South Australia, Tasmania, Victoria, Western Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-03"
+   },
+   "end": {
+    "date": "2022-01-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220103_o1bl31s32c7121fgmo134lor5k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294666190124000\"",
+   "id": "20220201_7a0mborrfgft79h1jtih9ce8qo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDFfN2EwbWJvcnJmZ2Z0NzloMWp0aWg5Y2U4cW8gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-03-15T08:31:35.000Z",
+   "updated": "2022-03-15T08:31:35.062Z",
+   "summary": "Lunar New Year (Christmas Island)",
+   "description": "Public holiday in Christmas Island",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-01"
+   },
+   "end": {
+    "date": "2022-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220201_7a0mborrfgft79h1jtih9ce8qo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294666190124000\"",
+   "id": "20220202_kvfc42l35n4et6jqtb3e177t8c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDJfa3ZmYzQybDM1bjRldDZqcXRiM2UxNzd0OGMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-03-15T08:31:35.000Z",
+   "updated": "2022-03-15T08:31:35.062Z",
+   "summary": "Lunar New Year Holiday (Day 2) (Christmas Island)",
+   "description": "Public holiday in Christmas Island",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-02"
+   },
+   "end": {
+    "date": "2022-02-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220202_kvfc42l35n4et6jqtb3e177t8c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3302311996064000\"",
+   "id": "20220417_9rj5ml3b2e2o0lnaaf53tcqado",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfOXJqNW1sM2IyZTJvMGxuYWFmNTN0Y3FhZG8gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-04-28T14:26:38.000Z",
+   "updated": "2022-04-28T14:26:38.032Z",
+   "summary": "Easter Sunday (regional holiday)",
+   "description": "Public holiday in Australian Capital Territory, New South Wales, Northern Territory, Queensland, Victoria, Western Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_9rj5ml3b2e2o0lnaaf53tcqado@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3325944011948000\"",
+   "id": "20220922_bm1q37c1gl4bk48vorsd9h0m8g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjJfYm0xcTM3YzFnbDRiazQ4dm9yc2Q5aDBtOGcgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-12T08:40:05.000Z",
+   "updated": "2022-09-12T08:40:05.974Z",
+   "summary": "National Day of Mourning for Her Majesty The Queen",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-22"
+   },
+   "end": {
+    "date": "2022-09-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220922_bm1q37c1gl4bk48vorsd9h0m8g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327505835786000\"",
+   "id": "20220613_ajgear9daaip4adsvatoeoujgs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTNfYWpnZWFyOWRhYWlwNGFkc3ZhdG9lb3VqZ3MgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-21T09:35:17.000Z",
+   "updated": "2022-09-21T09:35:17.893Z",
+   "summary": "Queen's Birthday (regional holiday)",
+   "description": "Public holiday in Australian Capital Territory, New South Wales, Northern Territory, South Australia, Tasmania, Victoria, Cocos and Keeling Islands, Heard and McDonald Islands",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-13"
+   },
+   "end": {
+    "date": "2022-06-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220613_ajgear9daaip4adsvatoeoujgs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20220923_msk2q04o4nb8bhe275fpuqrgn0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjNfbXNrMnEwNG80bmI4YmhlMjc1ZnB1cXJnbjAgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Friday before the AFL Grand Final (Victoria)",
+   "description": "Public holiday in Victoria",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-23"
+   },
+   "end": {
+    "date": "2022-09-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220923_msk2q04o4nb8bhe275fpuqrgn0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20220926_dsjruo3vg7u5cb4q5evqdfs964",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjZfZHNqcnVvM3ZnN3U1Y2I0cTVldnFkZnM5NjQgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "King's Birthday (Western Australia)",
+   "description": "Public holiday in Western Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-26"
+   },
+   "end": {
+    "date": "2022-09-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220926_dsjruo3vg7u5cb4q5evqdfs964@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20221002_96i5ge8241ladp074jajgqpn6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDJfOTZpNWdlODI0MWxhZHAwNzRqYWpncXBuNm8gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-02"
+   },
+   "end": {
+    "date": "2022-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221002_96i5ge8241ladp074jajgqpn6o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20221003_2earabka1fvqjhkroest7kl9jk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDNfMmVhcmFia2ExZnZxamhrcm9lc3Q3a2w5amsgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Territory Day (Christmas Island)",
+   "description": "Public holiday in Christmas Island",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-03"
+   },
+   "end": {
+    "date": "2022-10-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221003_2earabka1fvqjhkroest7kl9jk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20221003_fvdr89a8l3fc4b5aofq6r05ouk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDNfZnZkcjg5YThsM2ZjNGI1YW9mcTZyMDVvdWsgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Queen's Birthday (Queensland)",
+   "description": "Public holiday in Queensland",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-03"
+   },
+   "end": {
+    "date": "2022-10-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221003_fvdr89a8l3fc4b5aofq6r05ouk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20221003_n03dc7mk67pv7siiheedom1c9k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDNfbjAzZGM3bWs2N3B2N3NpaWhlZWRvbTFjOWsgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Labour Day (regional holiday)",
+   "description": "Public holiday in Australian Capital Territory, New South Wales, South Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-03"
+   },
+   "end": {
+    "date": "2022-10-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221003_n03dc7mk67pv7siiheedom1c9k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20221008_u7b1usl7sjn4kt8os003p5am3o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDhfdTdiMXVzbDdzam40a3Q4b3MwMDNwNWFtM28gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Hari Maulad Nabi (Cocos and Keeling Islands)",
+   "description": "Public holiday in Cocos and Keeling Islands",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-08"
+   },
+   "end": {
+    "date": "2022-10-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221008_u7b1usl7sjn4kt8os003p5am3o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20221010_vbsisns534c1gojkd681rn6jko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTBfdmJzaXNuczUzNGMxZ29qa2Q2ODFybjZqa28gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Day off for Hari Maulad Nabi (Cocos and Keeling Islands)",
+   "description": "Public holiday in Cocos and Keeling Islands",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-10"
+   },
+   "end": {
+    "date": "2022-10-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221010_vbsisns534c1gojkd681rn6jko@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20221020_sqhv3623r0p1vj91s50504cg7k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMjBfc3FodjM2MjNyMHAxdmo5MXM1MDUwNGNnN2sgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Royal Hobart Show (Tasmania)",
+   "description": "Public holiday in Tasmania",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-20"
+   },
+   "end": {
+    "date": "2022-10-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221020_sqhv3623r0p1vj91s50504cg7k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20221101_4c55366qml9fit6cki1hb55q5o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDFfNGM1NTM2NnFtbDlmaXQ2Y2tpMWhiNTVxNW8gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Melbourne Cup Day (Victoria)",
+   "description": "Public holiday in Victoria",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-01"
+   },
+   "end": {
+    "date": "2022-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221101_4c55366qml9fit6cki1hb55q5o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20221107_16up8s6agfn4la9bm462ajn89g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDdfMTZ1cDhzNmFnZm40bGE5Ym00NjJham44OWcgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Recreation Day (Tasmania)",
+   "description": "Public holiday in Tasmania",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-07"
+   },
+   "end": {
+    "date": "2022-11-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221107_16up8s6agfn4la9bm462ajn89g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20221111_q5temq77175mto1f9hp472t070",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMTFfcTV0ZW1xNzcxNzVtdG8xZjlocDQ3MnQwNzAgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Remembrance Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-11"
+   },
+   "end": {
+    "date": "2022-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221111_q5temq77175mto1f9hp472t070@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20221225_9o5vbl5la6va4bgt10hn90mbb0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfOW81dmJsNWxhNnZhNGJndDEwaG45MG1iYjAgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Christmas Day (Victoria)",
+   "description": "Public holiday in Victoria",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_9o5vbl5la6va4bgt10hn90mbb0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20221226_2onknktm10e6llv3lraitvolec",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfMm9ua25rdG0xMGU2bGx2M2xyYWl0dm9sZWMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Proclamation Day (South Australia)",
+   "description": "Public holiday in South Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_2onknktm10e6llv3lraitvolec@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20221226_5k0vcvl72p9rhuvqk4i5bjuiig",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfNWswdmN2bDcycDlyaHV2cWs0aTVianVpaWcgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Christmas Day Observed (regional holiday)",
+   "description": "Public holiday in Cocos and Keeling Islands, Christmas Island, Northern Territory, South Australia, Western Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_5k0vcvl72p9rhuvqk4i5bjuiig@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20221226_dgr79tc5r0s08rku1ajnvcucck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfZGdyNzl0YzVyMHMwOHJrdTFham52Y3VjY2sgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_dgr79tc5r0s08rku1ajnvcucck@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20221227_2h0g84pn3hravqftv0ab0eakms",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjdfMmgwZzg0cG4zaHJhdnFmdHYwYWIwZWFrbXMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Christmas Day Observed (regional holiday)",
+   "description": "Public holiday in Australian Capital Territory, New South Wales, Queensland, Tasmania, Victoria",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-27"
+   },
+   "end": {
+    "date": "2022-12-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221227_2h0g84pn3hravqftv0ab0eakms@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20221227_qqig7s7knmpd85422k6ts93phs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjdfcXFpZzdzN2tubXBkODU0MjJrNnRzOTNwaHMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Day off for Proclamation Day (South Australia)",
+   "description": "Public holiday in South Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-27"
+   },
+   "end": {
+    "date": "2022-12-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221227_qqig7s7knmpd85422k6ts93phs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230101_8jkkgk5trpscicl12icsekff1o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfOGpra2drNXRycHNjaWNsMTJpY3Nla2ZmMW8gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_8jkkgk5trpscicl12icsekff1o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230102_v2cq7nq08mu0m1b3qaptjnrdf8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfdjJjcTducTA4bXUwbTFiM3FhcHRqbnJkZjggZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Day off for New Year's Day (regional holiday)",
+   "description": "Public holiday in Australian Capital Territory, Cocos and Keeling Islands, Christmas Island, New South Wales, Northern Territory, Queensland, South Australia, Tasmania, Victoria, Western Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_v2cq7nq08mu0m1b3qaptjnrdf8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230122_eedimsk5ut0k5up5ut9bu52pd4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjJfZWVkaW1zazV1dDBrNXVwNXV0OWJ1NTJwZDQgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Lunar New Year (Christmas Island)",
+   "description": "Public holiday in Christmas Island",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-22"
+   },
+   "end": {
+    "date": "2023-01-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230122_eedimsk5ut0k5up5ut9bu52pd4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230123_919v1dm9chs0n91qgvehntsjgk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjNfOTE5djFkbTljaHMwbjkxcWd2ZWhudHNqZ2sgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Lunar New Year Holiday (Day 2) (Christmas Island)",
+   "description": "Public holiday in Christmas Island",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-23"
+   },
+   "end": {
+    "date": "2023-01-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230123_919v1dm9chs0n91qgvehntsjgk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230126_6apbqgbkf4rku7ihojcbnh3nrg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjZfNmFwYnFnYmtmNHJrdTdpaG9qY2JuaDNucmcgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Australia Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-26"
+   },
+   "end": {
+    "date": "2023-01-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230126_6apbqgbkf4rku7ihojcbnh3nrg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230213_vmnff33l7v85dof6e5f078m4vg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTNfdm1uZmYzM2w3djg1ZG9mNmU1ZjA3OG00dmcgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Royal Hobart Regatta (Tasmania)",
+   "description": "Public holiday in Tasmania",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-13"
+   },
+   "end": {
+    "date": "2023-02-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230213_vmnff33l7v85dof6e5f078m4vg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230306_03g77qvhlq9n1pjgm6fc57rp9g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMDZfMDNnNzdxdmhscTluMXBqZ202ZmM1N3JwOWcgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Labour Day (Western Australia)",
+   "description": "Public holiday in Western Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-06"
+   },
+   "end": {
+    "date": "2023-03-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230306_03g77qvhlq9n1pjgm6fc57rp9g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230313_19p6q3cj1u5pj821sdjq6c91js",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTNfMTlwNnEzY2oxdTVwajgyMXNkanE2YzkxanMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Eight Hours Day (Tasmania)",
+   "description": "Public holiday in Tasmania",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-13"
+   },
+   "end": {
+    "date": "2023-03-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230313_19p6q3cj1u5pj821sdjq6c91js@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230313_5trbbt7qajmo1vn6r02jomjmbo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTNfNXRyYmJ0N3Fham1vMXZuNnIwMmpvbWptYm8gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Labour Day (Victoria)",
+   "description": "Public holiday in Victoria",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-13"
+   },
+   "end": {
+    "date": "2023-03-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230313_5trbbt7qajmo1vn6r02jomjmbo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230313_duoa8fgrbn7h9j3dj110pt19l4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTNfZHVvYThmZ3JibjdoOWozZGoxMTBwdDE5bDQgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Adelaide Cup (South Australia)",
+   "description": "Public holiday in South Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-13"
+   },
+   "end": {
+    "date": "2023-03-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230313_duoa8fgrbn7h9j3dj110pt19l4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230313_mhfdor5v9c7den0efl8po33gk4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTNfbWhmZG9yNXY5YzdkZW4wZWZsOHBvMzNnazQgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Canberra Day (Australian Capital Territory)",
+   "description": "Public holiday in Australian Capital Territory",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-13"
+   },
+   "end": {
+    "date": "2023-03-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230313_mhfdor5v9c7den0efl8po33gk4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230321_hg5adesh16s1d9nfb6ln7pfpos",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjFfaGc1YWRlc2gxNnMxZDluZmI2bG43cGZwb3MgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Harmony Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-21"
+   },
+   "end": {
+    "date": "2023-03-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230321_hg5adesh16s1d9nfb6ln7pfpos@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230402_moth3ja7v0k6pkhnkt8q10fnh8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDJfbW90aDNqYTd2MGs2cGtobmt0OHExMGZuaDggZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-02"
+   },
+   "end": {
+    "date": "2023-04-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230402_moth3ja7v0k6pkhnkt8q10fnh8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230406_ng8qvd8jg772lulf6qc8n0kfc4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDZfbmc4cXZkOGpnNzcybHVsZjZxYzhuMGtmYzQgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Self Determination Day (Cocos and Keeling Islands)",
+   "description": "Public holiday in Cocos and Keeling Islands",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-06"
+   },
+   "end": {
+    "date": "2023-04-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230406_ng8qvd8jg772lulf6qc8n0kfc4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230407_oa8fkd8pfpv2h9vs4vsacr7094",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfb2E4ZmtkOHBmcHYyaDl2czR2c2FjcjcwOTQgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Good Friday (Victoria)",
+   "description": "Public holiday in Victoria",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_oa8fkd8pfpv2h9vs4vsacr7094@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230408_i3pvamkm9f15ngpjorvep07bf8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDhfaTNwdmFta205ZjE1bmdwam9ydmVwMDdiZjggZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Holy Saturday (regional holiday)",
+   "description": "Public holiday in Australian Capital Territory, New South Wales, Northern Territory, Queensland, South Australia, Victoria, Heard and McDonald Islands",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-08"
+   },
+   "end": {
+    "date": "2023-04-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230408_i3pvamkm9f15ngpjorvep07bf8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230410_nq3p2s84djsjbupsuvo043fbds",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfbnEzcDJzODRkanNqYnVwc3V2bzA0M2ZiZHMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_nq3p2s84djsjbupsuvo043fbds@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230411_7q0urmh4sjh1lpgu006r8tnp40",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTFfN3EwdXJtaDRzamgxbHBndTAwNnI4dG5wNDAgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Easter Tuesday (Tasmania)",
+   "description": "Public holiday in Tasmania",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-11"
+   },
+   "end": {
+    "date": "2023-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230411_7q0urmh4sjh1lpgu006r8tnp40@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230422_6ck71b6ofe0r33t9jqb5rojg3c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjJfNmNrNzFiNm9mZTByMzN0OWpxYjVyb2pnM2MgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Hari Raya Puasa (regional holiday)",
+   "description": "Public holiday in Cocos and Keeling Islands, Christmas Island",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-22"
+   },
+   "end": {
+    "date": "2023-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230422_6ck71b6ofe0r33t9jqb5rojg3c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230424_58njpr7g4pvvb21cfg6tajuggs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjRfNThuanByN2c0cHZ2YjIxY2ZnNnRhanVnZ3MgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Day off for Hari Raya Puasa (regional holiday)",
+   "description": "Public holiday in Cocos and Keeling Islands, Christmas Island",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-24"
+   },
+   "end": {
+    "date": "2023-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230424_58njpr7g4pvvb21cfg6tajuggs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230425_euj6dgpb07g943usedqqrvolsg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjVfZXVqNmRncGIwN2c5NDN1c2VkcXFydm9sc2cgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "ANZAC Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-25"
+   },
+   "end": {
+    "date": "2023-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230425_euj6dgpb07g943usedqqrvolsg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230425_oe4o2619iocpo09d9skfghtppk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjVfb2U0bzI2MTlpb2NwbzA5ZDlza2ZnaHRwcGsgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "ANZAC Day Observed (Victoria)",
+   "description": "Public holiday in Victoria",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-25"
+   },
+   "end": {
+    "date": "2023-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230425_oe4o2619iocpo09d9skfghtppk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230501_b0g09ii1so8e524ceeio77j3b8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfYjBnMDlpaTFzbzhlNTI0Y2VlaW83N2ozYjggZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Labour Day (Queensland)",
+   "description": "Public holiday in Queensland",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_b0g09ii1so8e524ceeio77j3b8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230501_qa44ulgni2g9j01ibvlfe7db74",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfcWE0NHVsZ25pMmc5ajAxaWJ2bGZlN2RiNzQgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "May Day (Northern Territory)",
+   "description": "Public holiday in Northern Territory",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_qa44ulgni2g9j01ibvlfe7db74@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230529_vposfo9fb16ae26l9qtdbmcluo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjlfdnBvc2ZvOWZiMTZhZTI2bDlxdGRibWNsdW8gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Reconciliation Day (Australian Capital Territory)",
+   "description": "Public holiday in Australian Capital Territory",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-29"
+   },
+   "end": {
+    "date": "2023-05-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230529_vposfo9fb16ae26l9qtdbmcluo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230605_438m12rcnrjsg4jtb1gfg2pn58",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDVfNDM4bTEycmNucmpzZzRqdGIxZ2ZnMnBuNTggZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Western Australia Day (Western Australia)",
+   "description": "Public holiday in Western Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-05"
+   },
+   "end": {
+    "date": "2023-06-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230605_438m12rcnrjsg4jtb1gfg2pn58@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230612_2sg853ijd7el9juqvpubricrb0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MTJfMnNnODUzaWpkN2VsOWp1cXZwdWJyaWNyYjAgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "King's Birthday (regional holiday)",
+   "description": "Public holiday in Australian Capital Territory, New South Wales, Northern Territory, South Australia, Tasmania, Victoria, Cocos and Keeling Islands, Heard and McDonald Islands",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-12"
+   },
+   "end": {
+    "date": "2023-06-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230612_2sg853ijd7el9juqvpubricrb0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230629_u40ien98ghvcmeqrkv6vu9bshk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjlfdTQwaWVuOThnaHZjbWVxcmt2NnZ1OWJzaGsgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Hari Raya Haji (regional holiday)",
+   "description": "Public holiday in Cocos and Keeling Islands, Christmas Island",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-29"
+   },
+   "end": {
+    "date": "2023-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230629_u40ien98ghvcmeqrkv6vu9bshk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230807_gdamtgvg78ncjiud31umb9iodo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MDdfZ2RhbXRndmc3OG5jaml1ZDMxdW1iOWlvZG8gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Northern Territory Picnic Day (Northern Territory)",
+   "description": "Public holiday in Northern Territory",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-07"
+   },
+   "end": {
+    "date": "2023-08-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230807_gdamtgvg78ncjiud31umb9iodo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230807_rct8m3lmnmmval9u53m1o19lkg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MDdfcmN0OG0zbG1ubW12YWw5dTUzbTFvMTlsa2cgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "New South Wales Bank Holiday (New South Wales)",
+   "description": "Public holiday in New South Wales",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-07"
+   },
+   "end": {
+    "date": "2023-08-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230807_rct8m3lmnmmval9u53m1o19lkg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230816_6plck0k49d7qcjflof0radtfio",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTZfNnBsY2swazQ5ZDdxY2pmbG9mMHJhZHRmaW8gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Royal National Agricultural Show Day Queensland (Queensland)",
+   "description": "Public holiday in Queensland",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-16"
+   },
+   "end": {
+    "date": "2023-08-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230816_6plck0k49d7qcjflof0radtfio@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230925_lt89fbgt6hjc697g0skb142nlg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjVfbHQ4OWZiZ3Q2aGpjNjk3ZzBza2IxNDJubGcgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "King's Birthday (Western Australia)",
+   "description": "Public holiday in Western Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-25"
+   },
+   "end": {
+    "date": "2023-09-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230925_lt89fbgt6hjc697g0skb142nlg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230927_g1fv3goolmlkod7bpg1k85vmlg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjdfZzFmdjNnb29sbWxrb2Q3YnBnMWs4NXZtbGcgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Hari Maulad Nabi (Cocos and Keeling Islands)",
+   "description": "Public holiday in Cocos and Keeling Islands",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-27"
+   },
+   "end": {
+    "date": "2023-09-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230927_g1fv3goolmlkod7bpg1k85vmlg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20230929_kor5sqdfgp1njmepe51n925ock",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5Mjlfa29yNXNxZGZncDFuam1lcGU1MW45MjVvY2sgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Friday before the AFL Grand Final (Victoria)",
+   "description": "Public holiday in Victoria",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-29"
+   },
+   "end": {
+    "date": "2023-09-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230929_kor5sqdfgp1njmepe51n925ock@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20231001_v25si640togfm4qlus0s5hbsi4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDFfdjI1c2k2NDB0b2dmbTRxbHVzMHM1aGJzaTQgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-01"
+   },
+   "end": {
+    "date": "2023-10-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231001_v25si640togfm4qlus0s5hbsi4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20231002_1jjpm56vpfcvt22j0945rquosg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDJfMWpqcG01NnZwZmN2dDIyajA5NDVycXVvc2cgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Labour Day (regional holiday)",
+   "description": "Public holiday in Australian Capital Territory, New South Wales, South Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-02"
+   },
+   "end": {
+    "date": "2023-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231002_1jjpm56vpfcvt22j0945rquosg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20231002_t2nd886j806lqeglfkmgu8lhoc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDJfdDJuZDg4Nmo4MDZscWVnbGZrbWd1OGxob2MgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Territory Day (Christmas Island)",
+   "description": "Public holiday in Christmas Island",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-02"
+   },
+   "end": {
+    "date": "2023-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231002_t2nd886j806lqeglfkmgu8lhoc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20231026_njbtoin847ivhjdnk4ndki9400",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjZfbmpidG9pbjg0N2l2aGpkbms0bmRraTk0MDAgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Royal Hobart Show (Tasmania)",
+   "description": "Public holiday in Tasmania",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-26"
+   },
+   "end": {
+    "date": "2023-10-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231026_njbtoin847ivhjdnk4ndki9400@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20231106_5tvd5havk3nq6gug1jvp7q83q4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDZfNXR2ZDVoYXZrM25xNmd1ZzFqdnA3cTgzcTQgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Recreation Day (Tasmania)",
+   "description": "Public holiday in Tasmania",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-06"
+   },
+   "end": {
+    "date": "2023-11-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231106_5tvd5havk3nq6gug1jvp7q83q4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20231107_iqb96j62bc84ckfi1cekl2jfgg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDdfaXFiOTZqNjJiYzg0Y2tmaTFjZWtsMmpmZ2cgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Melbourne Cup Day (Victoria)",
+   "description": "Public holiday in Victoria",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-07"
+   },
+   "end": {
+    "date": "2023-11-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231107_iqb96j62bc84ckfi1cekl2jfgg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20231111_91lvnap1nr6uvdgnjlv5ecvmv8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTFfOTFsdm5hcDFucjZ1dmRnbmpsdjVlY3ZtdjggZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Remembrance Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-11"
+   },
+   "end": {
+    "date": "2023-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231111_91lvnap1nr6uvdgnjlv5ecvmv8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20231225_4drcrtujasfq5lcknj8e5iblq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfNGRyY3J0dWphc2ZxNWxja25qOGU1aWJscTQgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Christmas Day (Victoria)",
+   "description": "Public holiday in Victoria",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_4drcrtujasfq5lcknj8e5iblq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20231226_a38qviutp00r3d0nddnrlh01v4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfYTM4cXZpdXRwMDByM2QwbmRkbnJsaDAxdjQgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Proclamation Day (South Australia)",
+   "description": "Public holiday in South Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_a38qviutp00r3d0nddnrlh01v4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20231226_c1jdr9v587co4dp645hf12ps38",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfYzFqZHI5djU4N2NvNGRwNjQ1aGYxMnBzMzggZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_c1jdr9v587co4dp645hf12ps38@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240101_56hjl8ml666t0q40hpc9nrabek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfNTZoamw4bWw2NjZ0MHE0MGhwYzlucmFiZWsgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_56hjl8ml666t0q40hpc9nrabek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240126_ih3fjpvt05q5ijoo4jed05g3d8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMjZfaWgzZmpwdnQwNXE1aWpvbzRqZWQwNWczZDggZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Australia Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-26"
+   },
+   "end": {
+    "date": "2024-01-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240126_ih3fjpvt05q5ijoo4jed05g3d8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240210_77dqfs3nqdeu2hvrcepjsd0p3o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTBfNzdkcWZzM25xZGV1Mmh2cmNlcGpzZDBwM28gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Lunar New Year (Christmas Island)",
+   "description": "Public holiday in Christmas Island",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-10"
+   },
+   "end": {
+    "date": "2024-02-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240210_77dqfs3nqdeu2hvrcepjsd0p3o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240211_svbf80ufasbl3mk1vfhohv8kpc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTFfc3ZiZjgwdWZhc2JsM21rMXZmaG9odjhrcGMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Lunar New Year Holiday (Day 2) (Christmas Island)",
+   "description": "Public holiday in Christmas Island",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-11"
+   },
+   "end": {
+    "date": "2024-02-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240211_svbf80ufasbl3mk1vfhohv8kpc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240212_rsjhmqjj95qib42jfnl0c5d8ns",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTJfcnNqaG1xamo5NXFpYjQyamZubDBjNWQ4bnMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Royal Hobart Regatta (Tasmania)",
+   "description": "Public holiday in Tasmania",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-12"
+   },
+   "end": {
+    "date": "2024-02-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240212_rsjhmqjj95qib42jfnl0c5d8ns@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240304_d3oepmc3t5ffae3vf8qml0plqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMDRfZDNvZXBtYzN0NWZmYWUzdmY4cW1sMHBscXMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Labour Day (Western Australia)",
+   "description": "Public holiday in Western Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-04"
+   },
+   "end": {
+    "date": "2024-03-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240304_d3oepmc3t5ffae3vf8qml0plqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240311_20662k8cqf0tlp7jg3kj71r0fk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfMjA2NjJrOGNxZjB0bHA3amcza2o3MXIwZmsgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Canberra Day (Australian Capital Territory)",
+   "description": "Public holiday in Australian Capital Territory",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_20662k8cqf0tlp7jg3kj71r0fk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240311_2cm8gpmaunpp3gn0ev6n9re8c0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfMmNtOGdwbWF1bnBwM2duMGV2Nm45cmU4YzAgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Labour Day (Victoria)",
+   "description": "Public holiday in Victoria",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_2cm8gpmaunpp3gn0ev6n9re8c0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240311_iu838i3nsdqcu89fuh7j9s1mss",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfaXU4MzhpM25zZHFjdTg5ZnVoN2o5czFtc3MgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Adelaide Cup (South Australia)",
+   "description": "Public holiday in South Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_iu838i3nsdqcu89fuh7j9s1mss@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240311_qsc3klo33vk4t6d6eemjrbjfg4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfcXNjM2tsbzMzdms0dDZkNmVlbWpyYmpmZzQgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Eight Hours Day (Tasmania)",
+   "description": "Public holiday in Tasmania",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_qsc3klo33vk4t6d6eemjrbjfg4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240321_cq7dnpb5soj1h4dej5ek8kpp7g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjFfY3E3ZG5wYjVzb2oxaDRkZWo1ZWs4a3BwN2cgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Harmony Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-21"
+   },
+   "end": {
+    "date": "2024-03-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240321_cq7dnpb5soj1h4dej5ek8kpp7g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240329_bbbcjqrrdo41hsa00a5s21a268",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfYmJiY2pxcnJkbzQxaHNhMDBhNXMyMWEyNjggZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Good Friday (Victoria)",
+   "description": "Public holiday in Victoria",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_bbbcjqrrdo41hsa00a5s21a268@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240330_5k3n8cgu57lsa18qosiajkk5js",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzBfNWszbjhjZ3U1N2xzYTE4cW9zaWFqa2s1anMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Holy Saturday (regional holiday)",
+   "description": "Public holiday in Australian Capital Territory, New South Wales, Northern Territory, Queensland, South Australia, Victoria, Heard and McDonald Islands",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-30"
+   },
+   "end": {
+    "date": "2024-03-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240330_5k3n8cgu57lsa18qosiajkk5js@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240401_8kg6m71ncdidmk8j8hojrsvra8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfOGtnNm03MW5jZGlkbWs4ajhob2pyc3ZyYTggZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_8kg6m71ncdidmk8j8hojrsvra8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240402_4eoqi5u1sekfgmco7hv9hql4gk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDJfNGVvcWk1dTFzZWtmZ21jbzdodjlocWw0Z2sgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Easter Tuesday (Tasmania)",
+   "description": "Public holiday in Tasmania",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-02"
+   },
+   "end": {
+    "date": "2024-04-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240402_4eoqi5u1sekfgmco7hv9hql4gk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240406_evngj7e2u5gfggv0qbtrsr25cc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDZfZXZuZ2o3ZTJ1NWdmZ2d2MHFidHJzcjI1Y2MgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Self Determination Day (Cocos and Keeling Islands)",
+   "description": "Public holiday in Cocos and Keeling Islands",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-06"
+   },
+   "end": {
+    "date": "2024-04-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240406_evngj7e2u5gfggv0qbtrsr25cc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240407_mj471m19lhi8l0j87f8rm7b9qs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDdfbWo0NzFtMTlsaGk4bDBqODdmOHJtN2I5cXMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-07"
+   },
+   "end": {
+    "date": "2024-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240407_mj471m19lhi8l0j87f8rm7b9qs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240408_cuc7k24u2rkmhm4eu8u5g9qu40",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDhfY3VjN2syNHUycmttaG00ZXU4dTVnOXF1NDAgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Day off for Self Determination Day (Cocos and Keeling Islands)",
+   "description": "Public holiday in Cocos and Keeling Islands",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-08"
+   },
+   "end": {
+    "date": "2024-04-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240408_cuc7k24u2rkmhm4eu8u5g9qu40@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240410_fut3a3j2so9c74p4sgp50ro37s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTBfZnV0M2EzajJzbzljNzRwNHNncDUwcm8zN3MgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Hari Raya Puasa (regional holiday)",
+   "description": "Public holiday in Cocos and Keeling Islands, Christmas Island",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-10"
+   },
+   "end": {
+    "date": "2024-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240410_fut3a3j2so9c74p4sgp50ro37s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240425_7tri8c4kkohkgc2db9lcb9bvo8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjVfN3RyaThjNGtrb2hrZ2MyZGI5bGNiOWJ2bzggZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "ANZAC Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-25"
+   },
+   "end": {
+    "date": "2024-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240425_7tri8c4kkohkgc2db9lcb9bvo8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240425_qlulro35api5gieeddssln9j9o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjVfcWx1bHJvMzVhcGk1Z2llZWRkc3NsbjlqOW8gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "ANZAC Day Observed (Victoria)",
+   "description": "Public holiday in Victoria",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-25"
+   },
+   "end": {
+    "date": "2024-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240425_qlulro35api5gieeddssln9j9o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240506_8t71fpee19mfd1dt3gkvmjv678",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDZfOHQ3MWZwZWUxOW1mZDFkdDNna3ZtanY2NzggZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Labour Day (Queensland)",
+   "description": "Public holiday in Queensland",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-06"
+   },
+   "end": {
+    "date": "2024-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240506_8t71fpee19mfd1dt3gkvmjv678@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240506_mfnhdmiebd0i228ij09lc7ocpg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDZfbWZuaGRtaWViZDBpMjI4aWowOWxjN29jcGcgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "May Day (Northern Territory)",
+   "description": "Public holiday in Northern Territory",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-06"
+   },
+   "end": {
+    "date": "2024-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240506_mfnhdmiebd0i228ij09lc7ocpg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240527_eq8laqo0qg71q67s01kgokml8g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjdfZXE4bGFxbzBxZzcxcTY3czAxa2dva21sOGcgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Reconciliation Day (Australian Capital Territory)",
+   "description": "Public holiday in Australian Capital Territory",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-27"
+   },
+   "end": {
+    "date": "2024-05-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240527_eq8laqo0qg71q67s01kgokml8g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240603_vqsmacc58frrpiqpi1e808pn9k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MDNfdnFzbWFjYzU4ZnJycGlxcGkxZTgwOHBuOWsgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Western Australia Day (Western Australia)",
+   "description": "Public holiday in Western Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-03"
+   },
+   "end": {
+    "date": "2024-06-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240603_vqsmacc58frrpiqpi1e808pn9k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240610_61rpevrkfdk5jatqbro3vdglb4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTBfNjFycGV2cmtmZGs1amF0cWJybzN2ZGdsYjQgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "King's Birthday (regional holiday)",
+   "description": "Public holiday in Australian Capital Territory, New South Wales, Northern Territory, South Australia, Tasmania, Victoria, Cocos and Keeling Islands, Heard and McDonald Islands",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-10"
+   },
+   "end": {
+    "date": "2024-06-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240610_61rpevrkfdk5jatqbro3vdglb4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240617_20g25fnmsa785fh5q0vp6845bo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfMjBnMjVmbm1zYTc4NWZoNXEwdnA2ODQ1Ym8gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Hari Raya Haji (regional holiday)",
+   "description": "Public holiday in Cocos and Keeling Islands, Christmas Island",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_20g25fnmsa785fh5q0vp6845bo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240805_hp2ce64s1t1ois28ee1bog05ls",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MDVfaHAyY2U2NHMxdDFvaXMyOGVlMWJvZzA1bHMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Northern Territory Picnic Day (Northern Territory)",
+   "description": "Public holiday in Northern Territory",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-05"
+   },
+   "end": {
+    "date": "2024-08-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240805_hp2ce64s1t1ois28ee1bog05ls@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240805_v114ba1rc0n3k35jafh1rg80ac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MDVfdjExNGJhMXJjMG4zazM1amFmaDFyZzgwYWMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "New South Wales Bank Holiday (New South Wales)",
+   "description": "Public holiday in New South Wales",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-05"
+   },
+   "end": {
+    "date": "2024-08-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240805_v114ba1rc0n3k35jafh1rg80ac@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240814_rgp26ei9ungm86nbdg9kvn5aco",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTRfcmdwMjZlaTl1bmdtODZuYmRnOWt2bjVhY28gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Royal National Agricultural Show Day Queensland (Queensland)",
+   "description": "Public holiday in Queensland",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-14"
+   },
+   "end": {
+    "date": "2024-08-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240814_rgp26ei9ungm86nbdg9kvn5aco@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240916_0gpgs48b3q8g1es844vjlok85s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTZfMGdwZ3M0OGIzcThnMWVzODQ0dmpsb2s4NXMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Hari Maulad Nabi (Cocos and Keeling Islands)",
+   "description": "Public holiday in Cocos and Keeling Islands",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-16"
+   },
+   "end": {
+    "date": "2024-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240916_0gpgs48b3q8g1es844vjlok85s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20240927_pqb9049nbmgmjalc9cgh3u2ud8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MjdfcHFiOTA0OW5ibWdtamFsYzljZ2gzdTJ1ZDggZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Friday before the AFL Grand Final (Victoria)",
+   "description": "Public holiday in Victoria",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-27"
+   },
+   "end": {
+    "date": "2024-09-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240927_pqb9049nbmgmjalc9cgh3u2ud8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20241006_g2ch06o9d8r5ske0tage5a305k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDZfZzJjaDA2bzlkOHI1c2tlMHRhZ2U1YTMwNWsgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-06"
+   },
+   "end": {
+    "date": "2024-10-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241006_g2ch06o9d8r5ske0tage5a305k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20241007_ata33mpgo9d44nqk61iofauc2s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDdfYXRhMzNtcGdvOWQ0NG5xazYxaW9mYXVjMnMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Territory Day (Christmas Island)",
+   "description": "Public holiday in Christmas Island",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-07"
+   },
+   "end": {
+    "date": "2024-10-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241007_ata33mpgo9d44nqk61iofauc2s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20241007_npvkv5dme2lvqg9g996on5a4bg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDdfbnB2a3Y1ZG1lMmx2cWc5Zzk5Nm9uNWE0YmcgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Labour Day (regional holiday)",
+   "description": "Public holiday in Australian Capital Territory, New South Wales, South Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-07"
+   },
+   "end": {
+    "date": "2024-10-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241007_npvkv5dme2lvqg9g996on5a4bg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20241024_ml0dk3v3tmo3h28o0cqa4fn4sk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjRfbWwwZGszdjN0bW8zaDI4bzBjcWE0Zm40c2sgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Royal Hobart Show (Tasmania)",
+   "description": "Public holiday in Tasmania",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-24"
+   },
+   "end": {
+    "date": "2024-10-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241024_ml0dk3v3tmo3h28o0cqa4fn4sk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20241104_ti80tkmgaqgkctr85i8aqbj9gk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDRfdGk4MHRrbWdhcWdrY3RyODVpOGFxYmo5Z2sgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Recreation Day (Tasmania)",
+   "description": "Public holiday in Tasmania",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-04"
+   },
+   "end": {
+    "date": "2024-11-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241104_ti80tkmgaqgkctr85i8aqbj9gk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20241105_foctakcpjsmtm129jndaper2fs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDVfZm9jdGFrY3Bqc210bTEyOWpuZGFwZXIyZnMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Melbourne Cup Day (Victoria)",
+   "description": "Public holiday in Victoria",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-05"
+   },
+   "end": {
+    "date": "2024-11-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241105_foctakcpjsmtm129jndaper2fs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20241111_c0gu6c53jdb73gr9dq48mq6pus",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMTFfYzBndTZjNTNqZGI3M2dyOWRxNDhtcTZwdXMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Remembrance Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-11"
+   },
+   "end": {
+    "date": "2024-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241111_c0gu6c53jdb73gr9dq48mq6pus@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20241225_o2b82j6p6cgve7hsv6f8hde7gs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfbzJiODJqNnA2Y2d2ZTdoc3Y2ZjhoZGU3Z3MgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Christmas Day (Victoria)",
+   "description": "Public holiday in Victoria",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_o2b82j6p6cgve7hsv6f8hde7gs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20241226_8etbm45ad8tu792bd1r7cvun28",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfOGV0Ym00NWFkOHR1NzkyYmQxcjdjdnVuMjggZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Proclamation Day (South Australia)",
+   "description": "Public holiday in South Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_8etbm45ad8tu792bd1r7cvun28@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897517654000\"",
+   "id": "20241226_vm40mu3kc06aqjjg0q2dt1m1qg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfdm00MG11M2tjMDZhcWpqZzBxMmR0MW0xcWcgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:59:18.000Z",
+   "updated": "2022-09-23T15:59:18.827Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_vm40mu3kc06aqjjg0q2dt1m1qg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3329779001744000\"",
+   "id": "20231002_v2rgqa6ugtr5071cnkp2dqb7b0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDJfdjJyZ3FhNnVndHI1MDcxY25rcDJkcWI3YjAgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-10-04T13:18:20.000Z",
+   "updated": "2022-10-04T13:18:20.872Z",
+   "summary": "King's Birthday (Queensland)",
+   "description": "Public holiday in Queensland",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-02"
+   },
+   "end": {
+    "date": "2023-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231002_v2rgqa6ugtr5071cnkp2dqb7b0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3329779001744000\"",
+   "id": "20241007_0r742louclns5t11pbv8k4vre0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDdfMHI3NDJsb3VjbG5zNXQxMXBidjhrNHZyZTAgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-10-04T13:18:20.000Z",
+   "updated": "2022-10-04T13:18:20.872Z",
+   "summary": "King's Birthday (Queensland)",
+   "description": "Public holiday in Queensland",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-07"
+   },
+   "end": {
+    "date": "2024-10-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241007_0r742louclns5t11pbv8k4vre0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3331199921444000\"",
+   "id": "20230506_0gf0ti7a78a9kogd6ev5j204ss",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDZfMGdmMHRpN2E3OGE5a29nZDZldjVqMjA0c3MgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-10-12T18:39:20.000Z",
+   "updated": "2022-10-12T18:39:20.722Z",
+   "summary": "The Coronation of King Charles III",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-06"
+   },
+   "end": {
+    "date": "2023-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230506_0gf0ti7a78a9kogd6ev5j204ss@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3334762399578000\"",
+   "id": "20240923_maqfmii8bh8j8mlpmune0jl5as",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MjNfbWFxZm1paThiaDhqOG1scG11bmUwamw1YXMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-11-02T09:26:39.000Z",
+   "updated": "2022-11-02T09:26:39.789Z",
+   "summary": "King's Birthday (Western Australia)",
+   "description": "Public holiday in Western Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-23"
+   },
+   "end": {
+    "date": "2024-09-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240923_maqfmii8bh8j8mlpmune0jl5as@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340125916434000\"",
+   "id": "20221224_1jq24gbu4oe8ln0lbpo5ro68vo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfMWpxMjRnYnU0b2U4bG4wbGJwbzVybzY4dm8gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-12-03T10:22:38.000Z",
+   "updated": "2022-12-03T10:22:38.217Z",
+   "summary": "Christmas Eve (regional holiday)",
+   "description": "Public holiday in Northern Territory, Queensland, South Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_1jq24gbu4oe8ln0lbpo5ro68vo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340125916434000\"",
+   "id": "20221227_lb4cg4tj3fjolij4j17qqjr2oo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjdfbGI0Y2c0dGozZmpvbGlqNGoxN3FxanIyb28gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-12-03T10:22:38.000Z",
+   "updated": "2022-12-03T10:22:38.217Z",
+   "summary": "Boxing Day Observed (regional holiday)",
+   "description": "Public holiday in Western Australia, Christmas Island, Cocos and Keeling Islands",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-27"
+   },
+   "end": {
+    "date": "2022-12-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221227_lb4cg4tj3fjolij4j17qqjr2oo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3357665420226000\"",
+   "id": "20230409_d23ii6866qsqg0qr2fg83qal6c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfZDIzaWk2ODY2cXNxZzBxcjJmZzgzcWFsNmMgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2023-03-14T22:25:10.000Z",
+   "updated": "2023-03-14T22:25:10.113Z",
+   "summary": "Easter Sunday (regional holiday)",
+   "description": "Public holiday in Australian Capital Territory, New South Wales, Northern Territory, Queensland, Victoria, Western Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_d23ii6866qsqg0qr2fg83qal6c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3357665420226000\"",
+   "id": "20240331_av40mfebghje6hhl8148sgdnko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfYXY0MG1mZWJnaGplNmhobDgxNDhzZ2Rua28gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2023-03-14T22:25:10.000Z",
+   "updated": "2023-03-14T22:25:10.113Z",
+   "summary": "Easter Sunday (regional holiday)",
+   "description": "Public holiday in Australian Capital Territory, New South Wales, Northern Territory, Queensland, Victoria, Western Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_av40mfebghje6hhl8148sgdnko@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375197335140000\"",
+   "id": "20221231_5fnj7c6k5cgnmdt0m4q9521nck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfNWZuajdjNms1Y2dubWR0MG00cTk1MjFuY2sgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2023-06-24T09:24:27.000Z",
+   "updated": "2023-06-24T09:24:27.570Z",
+   "summary": "New Year's Eve (regional holiday)",
+   "description": "Public holiday in Northern Territory, South Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_5fnj7c6k5cgnmdt0m4q9521nck@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375197335140000\"",
+   "id": "20231224_m4oscvukqsa0d0v84l45f9cp3o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfbTRvc2N2dWtxc2EwZDB2ODRsNDVmOWNwM28gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2023-06-24T09:24:27.000Z",
+   "updated": "2023-06-24T09:24:27.570Z",
+   "summary": "Christmas Eve (regional holiday)",
+   "description": "Observance in Northern Territory, Queensland, South Australia\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_m4oscvukqsa0d0v84l45f9cp3o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3381073142570000\"",
+   "id": "20231231_dfrk6670gdkbiafs1rs3nqc1sg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfZGZyazY2NzBnZGtiaWFmczFyczNucWMxc2cgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2023-07-28T09:29:31.000Z",
+   "updated": "2023-07-28T09:29:31.285Z",
+   "summary": "New Year's Eve (regional holiday)",
+   "description": "Observance in Northern Territory, South Australia\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_dfrk6670gdkbiafs1rs3nqc1sg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3381073142570000\"",
+   "id": "20241224_2iagjl6rjrlpd55mfi8ff92190",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfMmlhZ2psNnJqcmxwZDU1bWZpOGZmOTIxOTAgZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2023-07-28T09:29:31.000Z",
+   "updated": "2023-07-28T09:29:31.285Z",
+   "summary": "Christmas Eve (regional holiday)",
+   "description": "Public holiday in Northern Territory, Queensland, South Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_2iagjl6rjrlpd55mfi8ff92190@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3381073142570000\"",
+   "id": "20241231_ckgiggokfqleel8f6jcad2db5o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfY2tnaWdnb2tmcWxlZWw4ZjZqY2FkMmRiNW8gZW4uYXVzdHJhbGlhbiNob2xpZGF5QHY",
+   "created": "2023-07-28T09:29:31.000Z",
+   "updated": "2023-07-28T09:29:31.285Z",
+   "summary": "New Year's Eve (regional holiday)",
+   "description": "Observance in Northern Territory, South Australia\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Australia",
+   "creator": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.australian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Australia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_ckgiggokfqleel8f6jcad2db5o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}
