@@ -12,4 +12,4 @@ Back-end:
 1. Navigate to net-angular-coding-challenge\WebApi
 2. Open TeamPlanning.sln
 3. Run TeamPlanning.API on the development environment (by default, data will be from the mock JSON files as specified in UseMockService at appsettings.Development.json)
-4. The API should open at localhost:7623
+4. The API should open at localhost:7238
