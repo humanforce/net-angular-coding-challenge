@@ -1,0 +1,49 @@
+<div class="container">
+    <div class="row">
+        <div class="col" >
+            <h4>Team Velocity</h4>
+            <div>
+                <div ngbDropdown class="d-inline-block">
+                    <button type="button" class="btn btn-outline-primary" id="dropdownBasic1" ngbDropdownToggle>
+                        {{ selectedSprintFrom.name }}
+                    </button>
+                    <div ngbDropdownMenu>
+                        <button *ngFor="let sprint of sprints" ngbDropdownItem (click)="dropdownSelectedSprintFrom(sprint)">{{ sprint.name }}</button>
+                    </div>
+                </div> -
+                <div ngbDropdown class="d-inline-block">
+                    <button type="button" class="btn btn-outline-primary" id="dropdownBasic1" ngbDropdownToggle>
+                        {{ selectedSprintTo.name }}
+                    </button>
+                    <div ngbDropdownMenu>
+                        <button *ngFor="let sprint of sprints" ngbDropdownItem (click)="dropdownSelectedSprintTo(sprint)">{{ sprint.name }}</button>
+                    </div>
+                </div>
+            </div>
+            <p>Here is the data starting from <b>{{ selectedSprintFrom.name }}</b> to <b>{{ selectedSprintTo.name }}</b>:</p>
+            <p><b>{{ this.totalCompletedStory }}</b> Total Computed Story Points(s) / <b>{{ this.velocitySprints.length }}</b> Sprints(s)</p>
+            <p>= <b style="color: green;"><b>{{ averageVelocity.toFixed(2) }}</b> story point(s) (Average Velocity)</b></p>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Sprint Name</th>
+                        <th scope="col">Completed Story Point(s)</th>
+                        <th scope="col">Start Date</th>
+                        <th scope="col">End Date</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let sprint of velocitySprints; index as i">
+                        <th scope="row">{{ i + 1 }}</th>
+                        <td style="white-space: nowrap;">{{ sprint.name }}</td>
+                        <td>{{ sprint.totalCompletedStoryPoints }} story point(s)</td>
+                        <td style="white-space: nowrap;">{{ sprint.startDate | date}}</td>
+                        <td style="white-space: nowrap;">{{ sprint.endDate | date}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+  </div>
+

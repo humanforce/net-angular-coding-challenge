@@ -1,0 +1,2381 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33bodrket2co20o\"",
+ "summary": "Holidays in Philippines",
+ "description": "Holidays and Observances in Philippines",
+ "updated": "2023-09-06T20:54:49.000Z",
+ "timeZone": "UTC",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMDwlKLvloEDEAAYASD0p8WLAg==",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963096300000\"",
+   "id": "20220225_rbt36agkbh037gpme842ab1uqk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjVfcmJ0MzZhZ2tiaDAzN2dwbWU4NDJhYjF1cWsgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2021-08-26T12:39:08.000Z",
+   "updated": "2021-08-26T12:39:08.150Z",
+   "summary": "People Power Anniversary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-25"
+   },
+   "end": {
+    "date": "2022-02-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220225_rbt36agkbh037gpme842ab1uqk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963096300000\"",
+   "id": "20220501_3h0s3thnevum5cv74gtngmhshk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfM2gwczN0aG5ldnVtNWN2NzRndG5nbWhzaGsgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2021-08-26T12:39:08.000Z",
+   "updated": "2021-08-26T12:39:08.150Z",
+   "summary": "Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_3h0s3thnevum5cv74gtngmhshk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963103052000\"",
+   "id": "20220101_hnfrood3jqpf8i9io0o3a5s9bg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfaG5mcm9vZDNqcXBmOGk5aW8wbzNhNXM5YmcgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2021-08-26T12:39:11.000Z",
+   "updated": "2021-08-26T12:39:11.526Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_hnfrood3jqpf8i9io0o3a5s9bg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963103052000\"",
+   "id": "20220409_sv8mplem82ui3h21jhslebirh4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDlfc3Y4bXBsZW04MnVpM2gyMWpoc2xlYmlyaDQgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2021-08-26T12:39:11.000Z",
+   "updated": "2021-08-26T12:39:11.526Z",
+   "summary": "The Day of Valor",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-09"
+   },
+   "end": {
+    "date": "2022-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220409_sv8mplem82ui3h21jhslebirh4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963103052000\"",
+   "id": "20220821_uggnbbcnj2okrsfdtes6sjv9os",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MjFfdWdnbmJiY25qMm9rcnNmZHRlczZzanY5b3MgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2021-08-26T12:39:11.000Z",
+   "updated": "2021-08-26T12:39:11.526Z",
+   "summary": "Ninoy Aquino Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-21"
+   },
+   "end": {
+    "date": "2022-08-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220821_uggnbbcnj2okrsfdtes6sjv9os@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963108590000\"",
+   "id": "20220415_s4piet0da04la1h77gfo12hhk8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfczRwaWV0MGRhMDRsYTFoNzdnZm8xMmhoazggZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2021-08-26T12:39:14.000Z",
+   "updated": "2021-08-26T12:39:14.295Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_s4piet0da04la1h77gfo12hhk8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963108590000\"",
+   "id": "20220417_9lms91r6p32tkf02dkkjdpn1io",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfOWxtczkxcjZwMzJ0a2YwMmRra2pkcG4xaW8gZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2021-08-26T12:39:14.000Z",
+   "updated": "2021-08-26T12:39:14.295Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Philippines",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_9lms91r6p32tkf02dkkjdpn1io@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963108590000\"",
+   "id": "20220829_fim2rkbk55ap88l0e4f7e6t5is",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MjlfZmltMnJrYms1NWFwODhsMGU0ZjdlNnQ1aXMgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2021-08-26T12:39:14.000Z",
+   "updated": "2021-08-26T12:39:14.295Z",
+   "summary": "National Heroes Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-29"
+   },
+   "end": {
+    "date": "2022-08-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220829_fim2rkbk55ap88l0e4f7e6t5is@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963112538000\"",
+   "id": "20220414_ekt2vav6entiga993n4sjap3rs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTRfZWt0MnZhdjZlbnRpZ2E5OTNuNHNqYXAzcnMgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2021-08-26T12:39:16.000Z",
+   "updated": "2021-08-26T12:39:16.269Z",
+   "summary": "Maundy Thursday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-14"
+   },
+   "end": {
+    "date": "2022-04-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220414_ekt2vav6entiga993n4sjap3rs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963112538000\"",
+   "id": "20220416_1aeugsripuqj686qrruba8mi2o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTZfMWFldWdzcmlwdXFqNjg2cXJydWJhOG1pMm8gZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2021-08-26T12:39:16.000Z",
+   "updated": "2021-08-26T12:39:16.269Z",
+   "summary": "Black Saturday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-16"
+   },
+   "end": {
+    "date": "2022-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220416_1aeugsripuqj686qrruba8mi2o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963112538000\"",
+   "id": "20220612_u3b219bkahklvc46i1158g3ivc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTJfdTNiMjE5YmthaGtsdmM0NmkxMTU4ZzNpdmMgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2021-08-26T12:39:16.000Z",
+   "updated": "2021-08-26T12:39:16.269Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-12"
+   },
+   "end": {
+    "date": "2022-06-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220612_u3b219bkahklvc46i1158g3ivc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286333727914000\"",
+   "id": "20220201_pd50vprr780rdur451ls4nccds",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDFfcGQ1MHZwcnI3ODByZHVyNDUxbHM0bmNjZHMgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-01-26T03:14:23.000Z",
+   "updated": "2022-01-26T03:14:23.957Z",
+   "summary": "Lunar New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-01"
+   },
+   "end": {
+    "date": "2022-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220201_pd50vprr780rdur451ls4nccds@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3303136424152000\"",
+   "id": "20220502_5mm1uau929nsu5e2qh6l03djmk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfNW1tMXVhdTkyOW5zdTVlMnFoNmwwM2RqbWsgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-05-03T08:56:52.000Z",
+   "updated": "2022-05-03T08:56:52.076Z",
+   "summary": "Eidul-Fitar",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Philippines",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_5mm1uau929nsu5e2qh6l03djmk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3303136424152000\"",
+   "id": "20220503_nq0r6ppc22j13o4t0vuf1jsb4o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfbnEwcjZwcGMyMmoxM280dDB2dWYxanNiNG8gZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-05-03T08:56:52.000Z",
+   "updated": "2022-05-03T08:56:52.076Z",
+   "summary": "Eidul-Fitar Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_nq0r6ppc22j13o4t0vuf1jsb4o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3306934470682000\"",
+   "id": "20220509_3m9mqu3j9b7dj2igtejdcdffmo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDlfM205bXF1M2o5YjdkajJpZ3RlamRjZGZmbW8gZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-05-25T08:27:15.000Z",
+   "updated": "2022-05-25T08:27:15.341Z",
+   "summary": "National and Local Election Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-09"
+   },
+   "end": {
+    "date": "2022-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220509_3m9mqu3j9b7dj2igtejdcdffmo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315617492744000\"",
+   "id": "20220709_3npapk3c1hmkj4edfuuo1hhodo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDlfM25wYXBrM2MxaG1rajRlZGZ1dW8xaGhvZG8gZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-07-14T14:25:46.000Z",
+   "updated": "2022-07-14T14:25:46.372Z",
+   "summary": "Eid al-Adha (Feast of the Sacrifice)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-09"
+   },
+   "end": {
+    "date": "2022-07-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220709_3npapk3c1hmkj4edfuuo1hhodo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20221101_qogha6d6jfrhkisru1hjl5o210",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDFfcW9naGE2ZDZqZnJoa2lzcnUxaGpsNW8yMTAgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-01"
+   },
+   "end": {
+    "date": "2022-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221101_qogha6d6jfrhkisru1hjl5o210@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20221130_9u2mcuapr72g2kg984nm4oigb8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMzBfOXUybWN1YXByNzJnMmtnOTg0bm00b2lnYjggZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Bonifacio Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-30"
+   },
+   "end": {
+    "date": "2022-12-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221130_9u2mcuapr72g2kg984nm4oigb8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20221208_1qaj87ts1hnupr62tr27ggimh8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMDhfMXFhajg3dHMxaG51cHI2MnRyMjdnZ2ltaDggZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Feast of the Immaculate Conception",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Philippines",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-08"
+   },
+   "end": {
+    "date": "2022-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221208_1qaj87ts1hnupr62tr27ggimh8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20221225_evukba5silq0ikbsnjn6slf74s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfZXZ1a2JhNXNpbHEwaWtic25qbjZzbGY3NHMgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_evukba5silq0ikbsnjn6slf74s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20221230_e05rnfcaonqkfmh0gqpd4fu8fo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzBfZTA1cm5mY2FvbnFrZm1oMGdxcGQ0ZnU4Zm8gZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Rizal Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-30"
+   },
+   "end": {
+    "date": "2022-12-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221230_e05rnfcaonqkfmh0gqpd4fu8fo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20230101_i536i1d6l11ev7j649g6paa9qk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfaTUzNmkxZDZsMTFldjdqNjQ5ZzZwYWE5cWsgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_i536i1d6l11ev7j649g6paa9qk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20230122_82h2uc5s60vt8duk44n4292cr4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjJfODJoMnVjNXM2MHZ0OGR1azQ0bjQyOTJjcjQgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Lunar New Year's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Philippines",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-22"
+   },
+   "end": {
+    "date": "2023-01-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230122_82h2uc5s60vt8duk44n4292cr4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20230225_qh5nlrgilgqvq6iefgss2qkkv0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjVfcWg1bmxyZ2lsZ3F2cTZpZWZnc3MycWtrdjAgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "People Power Anniversary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-25"
+   },
+   "end": {
+    "date": "2023-02-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230225_qh5nlrgilgqvq6iefgss2qkkv0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20230406_hvir5nqlt88krljaet2cvelp0k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDZfaHZpcjVucWx0ODhrcmxqYWV0MmN2ZWxwMGsgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Maundy Thursday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-06"
+   },
+   "end": {
+    "date": "2023-04-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230406_hvir5nqlt88krljaet2cvelp0k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20230407_fvvr0mc91bb5up2h15l0770q60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfZnZ2cjBtYzkxYmI1dXAyaDE1bDA3NzBxNjAgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_fvvr0mc91bb5up2h15l0770q60@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20230408_6vrq4003tq9jof8u73k3dnkrp0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDhfNnZycTQwMDN0cTlqb2Y4dTczazNkbmtycDAgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Black Saturday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-08"
+   },
+   "end": {
+    "date": "2023-04-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230408_6vrq4003tq9jof8u73k3dnkrp0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20230409_p8tiskkcb2gn13himvmvej5884",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfcDh0aXNra2NiMmduMTNoaW12bXZlajU4ODQgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Philippines",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_p8tiskkcb2gn13himvmvej5884@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20230501_on1198jmr2jk4i8h7bnsevr28s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfb24xMTk4am1yMmprNGk4aDdibnNldnIyOHMgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_on1198jmr2jk4i8h7bnsevr28s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20230612_kqcg38h6h3647q79m19qr4hgmg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MTJfa3FjZzM4aDZoMzY0N3E3OW0xOXFyNGhnbWcgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-12"
+   },
+   "end": {
+    "date": "2023-06-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230612_kqcg38h6h3647q79m19qr4hgmg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20230821_p0cfcplbk3fju5d447tjugem00",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MjFfcDBjZmNwbGJrM2ZqdTVkNDQ3dGp1Z2VtMDAgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Ninoy Aquino Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-21"
+   },
+   "end": {
+    "date": "2023-08-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230821_p0cfcplbk3fju5d447tjugem00@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20230828_lr2vhea39igncv825ujgmcbh6s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MjhfbHIydmhlYTM5aWduY3Y4MjV1amdtY2JoNnMgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "National Heroes Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-28"
+   },
+   "end": {
+    "date": "2023-08-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230828_lr2vhea39igncv825ujgmcbh6s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20231101_2n2gi7kmnjp9m1cn21qqu6u84s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDFfMm4yZ2k3a21uanA5bTFjbjIxcXF1NnU4NHMgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-01"
+   },
+   "end": {
+    "date": "2023-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231101_2n2gi7kmnjp9m1cn21qqu6u84s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20231102_a7a5a54d67es2una47pf3hl9sc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDJfYTdhNWE1NGQ2N2VzMnVuYTQ3cGYzaGw5c2MgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "All Souls' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-02"
+   },
+   "end": {
+    "date": "2023-11-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231102_a7a5a54d67es2una47pf3hl9sc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20231208_mjht01ppo73ldol65078bo3ao8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMDhfbWpodDAxcHBvNzNsZG9sNjUwNzhibzNhbzggZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Feast of the Immaculate Conception",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Philippines",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-08"
+   },
+   "end": {
+    "date": "2023-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231208_mjht01ppo73ldol65078bo3ao8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20231224_5n5s6edi556u3feaee793sgkac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfNW41czZlZGk1NTZ1M2ZlYWVlNzkzc2drYWMgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Philippines",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_5n5s6edi556u3feaee793sgkac@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20231225_t1apr3djh6mj464giqh1s94878",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfdDFhcHIzZGpoNm1qNDY0Z2lxaDFzOTQ4NzggZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_t1apr3djh6mj464giqh1s94878@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20231230_pjfns6p3vibujla20cqcu3s0is",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzBfcGpmbnM2cDN2aWJ1amxhMjBjcWN1M3MwaXMgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Rizal Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-30"
+   },
+   "end": {
+    "date": "2023-12-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231230_pjfns6p3vibujla20cqcu3s0is@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20231231_1a0i500aildb59a18qv7dm381c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfMWEwaTUwMGFpbGRiNTlhMThxdjdkbTM4MWMgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "New Year's Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_1a0i500aildb59a18qv7dm381c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20240101_jk83rnvn27n7hg0g0112mntc58",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfams4M3Judm4yN243aGcwZzAxMTJtbnRjNTggZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_jk83rnvn27n7hg0g0112mntc58@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20240210_op166gerbcb43ghcfemiqicjjk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTBfb3AxNjZnZXJiY2I0M2doY2ZlbWlxaWNqamsgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Lunar New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-10"
+   },
+   "end": {
+    "date": "2024-02-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240210_op166gerbcb43ghcfemiqicjjk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20240225_k9sfomj6bh9j1prgtok74duerc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMjVfazlzZm9tajZiaDlqMXByZ3Rvazc0ZHVlcmMgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "People Power Anniversary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-25"
+   },
+   "end": {
+    "date": "2024-02-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240225_k9sfomj6bh9j1prgtok74duerc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20240328_do3ui8aurs1nf0s37124oar2fk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjhfZG8zdWk4YXVyczFuZjBzMzcxMjRvYXIyZmsgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Maundy Thursday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-28"
+   },
+   "end": {
+    "date": "2024-03-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240328_do3ui8aurs1nf0s37124oar2fk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20240329_e0fbgoqkc22ogqpjuj1ekd3neo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfZTBmYmdvcWtjMjJvZ3FwanVqMWVrZDNuZW8gZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_e0fbgoqkc22ogqpjuj1ekd3neo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20240330_jegumheuu6e1kciagotd8cfbso",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzBfamVndW1oZXV1NmUxa2NpYWdvdGQ4Y2Zic28gZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Black Saturday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-30"
+   },
+   "end": {
+    "date": "2024-03-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240330_jegumheuu6e1kciagotd8cfbso@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20240331_kkpmiavc14bqot7cuh3263tkbo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfa2twbWlhdmMxNGJxb3Q3Y3VoMzI2M3RrYm8gZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Philippines",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_kkpmiavc14bqot7cuh3263tkbo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20240409_h81ni99j0rlqhb8hlaoiqlt5f4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDlfaDgxbmk5OWowcmxxaGI4aGxhb2lxbHQ1ZjQgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "The Day of Valor",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-09"
+   },
+   "end": {
+    "date": "2024-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240409_h81ni99j0rlqhb8hlaoiqlt5f4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20240410_2o9b673n68uhvsi89l5tj15cls",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTBfMm85YjY3M242OHVodnNpODlsNXRqMTVjbHMgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Eidul-Fitar",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-10"
+   },
+   "end": {
+    "date": "2024-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240410_2o9b673n68uhvsi89l5tj15cls@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20240501_cm7t4450bnrv5t8cj5agomtf4g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfY203dDQ0NTBibnJ2NXQ4Y2o1YWdvbXRmNGcgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_cm7t4450bnrv5t8cj5agomtf4g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20240612_5tqkeu231q3rdmin1kg6c5ttr8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTJfNXRxa2V1MjMxcTNyZG1pbjFrZzZjNXR0cjggZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-12"
+   },
+   "end": {
+    "date": "2024-06-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240612_5tqkeu231q3rdmin1kg6c5ttr8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20240617_t588korarrhchrascs7kmg17qs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfdDU4OGtvcmFycmhjaHJhc2NzN2ttZzE3cXMgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Eid al-Adha (Feast of the Sacrifice)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_t588korarrhchrascs7kmg17qs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20240821_hjbpnmaaopoh6v2qetb4kjb03s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MjFfaGpicG5tYWFvcG9oNnYycWV0YjRramIwM3MgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Ninoy Aquino Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-21"
+   },
+   "end": {
+    "date": "2024-08-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240821_hjbpnmaaopoh6v2qetb4kjb03s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20240826_6k46joif593bbrfp18fijpvb6g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MjZfNms0NmpvaWY1OTNiYnJmcDE4ZmlqcHZiNmcgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "National Heroes Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-26"
+   },
+   "end": {
+    "date": "2024-08-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240826_6k46joif593bbrfp18fijpvb6g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20241101_1dqokokelpfbp4s4jdu27i8128",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDFfMWRxb2tva2VscGZicDRzNGpkdTI3aTgxMjggZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-01"
+   },
+   "end": {
+    "date": "2024-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241101_1dqokokelpfbp4s4jdu27i8128@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20241102_89rso8inao6kqlq0e919nilnu0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDJfODlyc284aW5hbzZrcWxxMGU5MTluaWxudTAgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "All Souls' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Philippines",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-02"
+   },
+   "end": {
+    "date": "2024-11-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241102_89rso8inao6kqlq0e919nilnu0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20241130_lfq379tk8ge70dnl9n866otp38",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMzBfbGZxMzc5dGs4Z2U3MGRubDluODY2b3RwMzggZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Bonifacio Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-30"
+   },
+   "end": {
+    "date": "2024-12-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241130_lfq379tk8ge70dnl9n866otp38@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20241208_j6mi8rlfsj2rtpoakvunm1fqoc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDhfajZtaThybGZzajJydHBvYWt2dW5tMWZxb2MgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Feast of the Immaculate Conception",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Philippines",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-08"
+   },
+   "end": {
+    "date": "2024-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241208_j6mi8rlfsj2rtpoakvunm1fqoc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20241224_l15u5oemh0srmb9i46vj7gr770",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfbDE1dTVvZW1oMHNybWI5aTQ2dmo3Z3I3NzAgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Philippines",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_l15u5oemh0srmb9i46vj7gr770@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20241225_vooehscpjd53vnra54e4j4j6lk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfdm9vZWhzY3BqZDUzdm5yYTU0ZTRqNGo2bGsgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_vooehscpjd53vnra54e4j4j6lk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20241230_aadf0k63l2sol6veff0j9gm7e8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzBfYWFkZjBrNjNsMnNvbDZ2ZWZmMGo5Z203ZTggZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "Rizal Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-30"
+   },
+   "end": {
+    "date": "2024-12-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241230_aadf0k63l2sol6veff0j9gm7e8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550068438000\"",
+   "id": "20241231_m6oidm7tg05vq53lg05jq7demc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfbTZvaWRtN3RnMDV2cTUzbGcwNWpxN2RlbWMgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-09-27T10:37:14.000Z",
+   "updated": "2022-09-27T10:37:14.219Z",
+   "summary": "New Year's Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_m6oidm7tg05vq53lg05jq7demc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3332682938432000\"",
+   "id": "20221031_oscqkb9g32f99co8t8von62alg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzFfb3NjcWtiOWczMmY5OWNvOHQ4dm9uNjJhbGcgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-10-21T08:37:49.000Z",
+   "updated": "2022-10-21T08:37:49.216Z",
+   "summary": "Special Family Ties and Domestic Tourism Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-31"
+   },
+   "end": {
+    "date": "2022-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221031_oscqkb9g32f99co8t8von62alg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3341860434490000\"",
+   "id": "20230102_mld2ukta28ck26tpkuvbru3ack",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfbWxkMnVrdGEyOGNrMjZ0cGt1dmJydTNhY2sgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-12-13T11:16:57.000Z",
+   "updated": "2022-12-13T11:16:57.245Z",
+   "summary": "Special non-working day after New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_mld2ukta28ck26tpkuvbru3ack@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3341860434490000\"",
+   "id": "20230409_2lsqkh82o6rvgea436ubu5bk20",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfMmxzcWtoODJvNnJ2Z2VhNDM2dWJ1NWJrMjAgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-12-13T11:16:57.000Z",
+   "updated": "2022-12-13T11:16:57.245Z",
+   "summary": "The Day of Valor",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Philippines",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_2lsqkh82o6rvgea436ubu5bk20@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3341860434490000\"",
+   "id": "20230410_p0ncg32tadn9ls4ecf35suuohg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfcDBuY2czMnRhZG45bHM0ZWNmMzVzdXVvaGcgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-12-13T11:16:57.000Z",
+   "updated": "2022-12-13T11:16:57.245Z",
+   "summary": "The Day of Valor",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_p0ncg32tadn9ls4ecf35suuohg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3341860434490000\"",
+   "id": "20231127_bpkglp3vgr8h1k67nl0behr828",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMjdfYnBrZ2xwM3ZncjhoMWs2N25sMGJlaHI4MjggZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-12-13T11:16:57.000Z",
+   "updated": "2022-12-13T11:16:57.245Z",
+   "summary": "Bonifacio Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-27"
+   },
+   "end": {
+    "date": "2023-11-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231127_bpkglp3vgr8h1k67nl0behr828@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3341860434490000\"",
+   "id": "20231130_ginin852mf2jm6slhn38slg31s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMzBfZ2luaW44NTJtZjJqbTZzbGhuMzhzbGczMXMgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-12-13T11:16:57.000Z",
+   "updated": "2022-12-13T11:16:57.245Z",
+   "summary": "Bonifacio Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Philippines",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-30"
+   },
+   "end": {
+    "date": "2023-12-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231130_ginin852mf2jm6slhn38slg31s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3344440367664000\"",
+   "id": "20221226_nl8kt7rfvr601s4otetriih1i8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfbmw4a3Q3cmZ2cjYwMXM0b3RldHJpaWgxaTggZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2022-12-28T09:36:23.000Z",
+   "updated": "2022-12-28T09:36:23.832Z",
+   "summary": "Special Day after Christmas",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_nl8kt7rfvr601s4otetriih1i8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3354555652994000\"",
+   "id": "20230224_7gncfng8d12dj487b0emn3kums",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjRfN2duY2ZuZzhkMTJkajQ4N2IwZW1uM2t1bXMgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2023-02-24T22:30:26.000Z",
+   "updated": "2023-02-24T22:30:26.497Z",
+   "summary": "Day off for People Power Anniversary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-24"
+   },
+   "end": {
+    "date": "2023-02-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230224_7gncfng8d12dj487b0emn3kums@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359047291648000\"",
+   "id": "20230323_n4lp1625ioef2b5kife6h9l0a0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjNfbjRscDE2MjVpb2VmMmI1a2lmZTZoOWwwYTAgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2023-03-22T22:20:45.000Z",
+   "updated": "2023-03-22T22:20:45.824Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Philippines",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-23"
+   },
+   "end": {
+    "date": "2023-03-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230323_n4lp1625ioef2b5kife6h9l0a0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359047291648000\"",
+   "id": "20240311_e8o6o80up1v5u0ss34ddu3ctfo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfZThvNm84MHVwMXY1dTBzczM0ZGR1M2N0Zm8gZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2023-03-22T22:20:45.000Z",
+   "updated": "2023-03-22T22:20:45.824Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Philippines",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_e8o6o80up1v5u0ss34ddu3ctfo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3364309293800000\"",
+   "id": "20230421_qj4r2s5v8voao4u6vrrq85eqek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjFfcWo0cjJzNXY4dm9hbzR1NnZycnE4NWVxZWsgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2023-04-22T09:10:46.000Z",
+   "updated": "2023-04-22T09:10:46.900Z",
+   "summary": "Eidul-Fitar Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-21"
+   },
+   "end": {
+    "date": "2023-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230421_qj4r2s5v8voao4u6vrrq85eqek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3364309293800000\"",
+   "id": "20230422_1irooj6kai9pm16dsrfeulcbkc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjJfMWlyb29qNmthaTlwbTE2ZHNyZmV1bGNia2MgZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2023-04-22T09:10:46.000Z",
+   "updated": "2023-04-22T09:10:46.900Z",
+   "summary": "Eidul-Fitar",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Philippines",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-22"
+   },
+   "end": {
+    "date": "2023-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230422_1irooj6kai9pm16dsrfeulcbkc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373809109352000\"",
+   "id": "20230628_aj5kl5c62ujgernpt7idmsjmgo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjhfYWo1a2w1YzYydWpnZXJucHQ3aWRtc2ptZ28gZW4ucGhpbGlwcGluZXMjaG9saWRheUB2",
+   "created": "2023-06-16T08:35:54.000Z",
+   "updated": "2023-06-16T08:35:54.676Z",
+   "summary": "Eid al-Adha (Feast of the Sacrifice)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.philippines#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Philippines",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-28"
+   },
+   "end": {
+    "date": "2023-06-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230628_aj5kl5c62ujgernpt7idmsjmgo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

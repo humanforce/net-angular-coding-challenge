@@ -1,0 +1,46 @@
+<div class="container">
+    <div class="row">
+        <div class="col" >
+            <h4>Team Member(s)</h4>
+            <div ngbDropdown class="d-inline-block">
+                <button type="button" class="btn btn-outline-primary" id="dropdownBasic1" ngbDropdownToggle>
+                    {{ selectedSprint.name }}
+                </button>
+                <div ngbDropdownMenu>
+                    <button *ngFor="let sprint of sprints" ngbDropdownItem (click)="dropdownSelectedSprint(sprint)">{{ sprint.name }}</button>
+                </div>
+            </div>
+            <p>Working days(s) in <b>{{ selectedSprint.name }} ({{ selectedSprint.startDate | date}} - {{selectedSprint.endDate | date}}): </b><b>10</b> day(s)</p>
+            <p>Daily available hour(s) per team member: <b>8</b> hours</p>
+            <p>Number of team member(s): <b>{{ teamMembers.length }}</b></p>
+            <p>Planned leave/absences: <b>{{ totalAbsencesInHours }}</b> hours/<b>{{ totalAbsencesInDays }} day(s)</b></p>
+            <p>Team's Capacity: <b style="color: green;"><b>{{ totalTeamCapacityInHours }}</b> hour(s)/<b>{{ totalTeamCapacityInDays }}</b> day(s)</b></p>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Holiday(s) within Sprint</th>
+                        <th scope="col">Country</th>
+                        <th scope="col">Region</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let teamMember of teamMembers; index as i">
+                        <th scope="row">{{ i + 1 }}</th>
+                        <td>
+                            <i class="bi bi-person-circle" style="padding-right: 10px;"></i>
+                            {{ teamMember.name }}
+                        </td>
+                        <td><a href="#" (click)="openModal(teamMember, true)">{{teamMember.publicHolidaysWithinSprint.items.length }}</a></td>
+                        <td>
+                            <i class="bi bi-calendar-event" style="padding-right: 10px;"></i>
+                            <a href="#" ngbTooltip="Click to view holiday(s)" (click)="openModal(teamMember)">{{ teamMember.location.country }}</a>
+                        </td>
+                        <td>{{ teamMember.location.region }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+  </div>
